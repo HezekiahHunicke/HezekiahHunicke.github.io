@@ -1,0 +1,118 @@
+/* Padding and margins set to zero to remove unnecessary space
+Height must be explicitly set in order for the 100% height of <div id="box"> to always fill viewport */
+
+html, body{
+   padding: 0;
+   margin: 0;
+   height: 100vh;
+}
+
+/* Loads web fonts */
+
+@font-face {
+  font-family: IMFell;
+  src: url(IMFellEnglish-Regular.ttf);
+}
+
+/* Sets default font (Courier is not used for blocks of text like <p>, which use Georgia).
+Sets default text color (--fg)
+Note that in practice, background-color --bg4 will apply ONLY to <body>.
+All child elements are within a <div id="box"> which uses --bg1.
+This allows me different-colored margins. */
+
+body {
+	background-color: var(--bg);
+	color: var(--fg);
+	font-family: Courier, monospace, sans-serif;
+/*	background-image: url(rock.jpg); */
+    background-size: 50%
+}
+
+/* Styling for Headings */
+
+h1 {
+	text-align: center;
+	color: var(--green);
+}
+
+h2 {
+	color: var(--yellow);
+	text-align: center;
+}
+
+/* Link Styling. My links show an outline on hover.
+They do not change color if visited */
+
+a {
+	color: LightBlue;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+
+a:hover {
+  outline: 1px dotted;
+}
+
+  /* My custom styling for lists of links
+  ::marker is to make bullets the color I want
+  Margins of ul are set to zero because default is excessive IMO */
+
+#listlink {
+	::marker {
+		color: var(--fg);
+	}
+}
+
+#listlink i {
+	color: var(--fg3);
+}
+
+#listlink img {
+		max-height: 1em;
+		max-width: 1em;
+}
+
+#listlink ul {
+	margin: 0px 0px 0px 0px;
+}
+
+/* A nice readable font for larger blocks of text */
+
+p {
+	font-family: Georgia, serif;
+}
+
+/* Lets me easily choose whether an element is serif or monospace */
+
+#serif {
+	font-family: Georgia, serif;
+}
+
+#mono {
+	font-family: Courier, monospace, sans-serif;
+}
+
+/* This is how I  */
+
+#box {
+	height: 100%;
+	background-color: var(--bg1);
+/*	outline-style: solid; */
+	max-width: 900px;
+	margin: auto;
+	padding: 50px;
+}
+
+
+
+footer {
+	text-align: center;
+	color: var(--fg4);
+}
