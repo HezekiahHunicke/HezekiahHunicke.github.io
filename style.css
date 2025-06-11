@@ -1,17 +1,13 @@
-/* Padding and margins set to zero to remove unnecessary space
-Height must be explicitly set in order for the 100% height of <div id="box"> to always fill viewport */
-
 html, body{
-   padding: 0;
-   margin: 0;
-   height: 100vh;
+	padding: 10px;
+	overflow-wrap: break-word;
 }
 
 /* Loads web fonts */
 
 @font-face {
-  font-family: IMFell;
-  src: url(IMFellEnglish-Regular.ttf);
+	font-family: IMFell;
+	src: url(IMFellEnglish-Regular.ttf);
 }
 
 /* Sets default font (Courier is not used for blocks of text like <p>, which use Georgia).
@@ -24,8 +20,8 @@ body {
 	background-color: var(--bg);
 	color: var(--fg);
 	font-family: Courier, monospace, sans-serif;
-/*	background-image: url(rock.jpg); */
-    background-size: 50%
+/*	background-image: url(rock.jpg);
+	background-size: 50% */
 }
 
 /* Styling for Headings */
@@ -57,12 +53,12 @@ a:visited {
 
 
 a:hover {
-  outline: 1px dotted;
+	outline: 1px dotted;
 }
 
-  /* My custom styling for lists of links
-  ::marker is to make bullets the color I want
-  Margins of ul are set to zero because default is excessive IMO */
+	/* My custom styling for lists of links
+	::marker is to make bullets the color I want
+	Margins of ul are set to zero because default is excessive IMO */
 
 #listlink {
 	::marker {
@@ -75,8 +71,8 @@ a:hover {
 }
 
 #listlink img {
-		max-height: 1em;
-		max-width: 1em;
+	max-height: 1em;
+	max-width: 1em;
 }
 
 #listlink ul {
@@ -99,7 +95,7 @@ p {
 	font-family: Courier, monospace, sans-serif;
 }
 
-/* This is how I  */
+/* This is how I make the 'page' look */
 
 #box {
 	height: 100%;
