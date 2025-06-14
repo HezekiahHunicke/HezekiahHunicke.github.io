@@ -1,7 +1,23 @@
-html, body{
-	padding: 10px;
-	overflow-wrap: break-word;
+/* reduced margins on small screens */
+
+@media only screen and (min-width: 451px) {
+	html, body {
+		padding: 10px 5px;
+		margin: 4px;
+	}
 }
+
+@media only screen and (max-width: 450px) {
+	html, body {
+		padding: 0;
+		margin: 0;
+	}
+}
+
+html, body {
+		overflow-wrap: break-word;
+	}
+
 
 /* Loads web fonts */
 
@@ -22,6 +38,12 @@ body {
 	font-family: Courier, monospace, sans-serif;
 /*	background-image: url(rock.jpg);
 	background-size: 50% */
+}
+
+@media only screen and (max-width: 450px) {
+	body {
+		background-color: var(--bg1);
+	}
 }
 
 /* Styling for Headings */
@@ -95,17 +117,30 @@ p {
 	font-family: Courier, monospace, sans-serif;
 }
 
-/* This is how I make the 'page' look */
+/* This is how I make the 'page' look.
+Reduced marins on small screens */
 
-#box {
-	height: 100%;
-	background-color: var(--bg1);
-/*	outline-style: solid; */
-	max-width: 900px;
-	margin: auto;
-	padding: 50px;
+@media only screen and (min-width: 901px) {
+	#box {
+		height: 100%;
+		background-color: var(--bg1);
+/*		outline-style: solid; */
+		max-width: 900px;
+		margin: auto;
+		padding: 50px;
+	}
 }
 
+@media only screen and (max-width: 900px) {
+	#box {
+		height: 100%;
+		background-color: var(--bg1);
+/*		outline-style: solid; */
+		max-width: 900px;
+		margin: 0px;
+		padding: 10px;
+	}
+}
 
 
 footer {
