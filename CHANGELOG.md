@@ -8,6 +8,29 @@ Example: 1776.07.04.02
 
 (explanation: This change was made on July 4, 1776. It was the second change of the day.)
 
+## [2025.06.22.01]
+
+### Added
+
+- Created 404 page ("404.html").
+- Created change log ("CHANGELOG.md").
+- Created "CHANGELOG.html" (HTML rendering of "CHANGELOG.md").
+- Created a site map ("sitemap.html").
+- Added spinning skull.
+- Created page template ("template.html") (for me to paste in when creating new pages).
+- Added link to "sitemap.html" in "index.html".
+- Added styling for subtitles.
+- Added styling for h3
+- Added class compact-all for more compact text.
+- Added styling for pre (yet unused).
+
+### Changed
+
+- Cleaned up HTML in "index.html"
+- Corrected mistake where what should have been a class was labeled as an id in "index.html" and "style.css".
+- Widened the minimum screen size at which the moble CSS is applied.
+- Commented out an unused web font.
+
 ## [2025.06.13.04]
 
 ### Added
