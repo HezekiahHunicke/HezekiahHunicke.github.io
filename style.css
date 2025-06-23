@@ -1,13 +1,13 @@
 /* reduced margins on small screens */
 
-@media only screen and (min-width: 451px) {
+@media only screen and (min-width: 601px) {
 	html, body {
 		padding: 10px 5px;
 		margin: 4px;
 	}
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 600px) {
 	html, body {
 		padding: 0;
 		margin: 0;
@@ -20,11 +20,11 @@ html, body {
 
 
 /* Loads web fonts */
-
+/*
 @font-face {
 	font-family: IMFell;
 	src: url(IMFellEnglish-Regular.ttf);
-}
+} */
 
 /* Sets default font (Courier is not used for blocks of text like <p>, which use Georgia).
 Sets default text color (--fg)
@@ -35,12 +35,12 @@ This allows me different-colored margins. */
 body {
 	background-color: var(--bg);
 	color: var(--fg);
-	font-family: Courier, monospace, sans-serif;
+	font-family: "courier", monospace, sans-serif;
 /*	background-image: url(rock.jpg);
 	background-size: 50% */
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 600px) {
 	body {
 		background-color: var(--bg1);
 	}
@@ -56,6 +56,20 @@ h1 {
 h2 {
 	color: var(--yellow);
 	text-align: center;
+}
+
+h3 {
+	color: var(--orange);
+}
+
+/* subtitle */
+
+.tagline {
+	text-align: center;
+	font-family: Courier, monospace, sans-serif;
+	font-style: italic;
+	color: var(--fg3);
+	margin: 0;
 }
 
 /* Link Styling. My links show an outline on hover.
@@ -82,22 +96,23 @@ a:hover {
 	::marker is to make bullets the color I want
 	Margins of ul are set to zero because default is excessive IMO */
 
-#listlink {
+.listlink {
+	text-decoration: none;
 	::marker {
 		color: var(--fg);
 	}
 }
 
-#listlink i {
+.listlink i {
 	color: var(--fg3);
 }
 
-#listlink img {
+.listlink img {
 	max-height: 1em;
 	max-width: 1em;
 }
 
-#listlink ul {
+.listlink ul {
 	margin: 0px 0px 0px 0px;
 }
 
@@ -109,18 +124,31 @@ p {
 
 /* Lets me easily choose whether an element is serif or monospace */
 
-#serif {
+.serif {
 	font-family: Georgia, serif;
 }
 
-#mono {
+.mono {
 	font-family: Courier, monospace, sans-serif;
+}
+
+.mono-all * {
+	font-family: "georgia", a, sans-serif;
+	margin: 5px;
+}
+
+.mono-all h1 {
+	margin: 30px 5px 5px 5px;
+}
+
+.mono-all h2 {
+	margin: 30px 5px 5px 5px;
 }
 
 /* This is how I make the 'page' look.
 Reduced marins on small screens */
 
-@media only screen and (min-width: 901px) {
+@media only screen and (min-width: 601px) {
 	#box {
 		height: 100%;
 		background-color: var(--bg1);
@@ -131,7 +159,7 @@ Reduced marins on small screens */
 	}
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 600px) {
 	#box {
 		height: 100%;
 		background-color: var(--bg1);
@@ -142,6 +170,10 @@ Reduced marins on small screens */
 	}
 }
 
+pre {
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
 
 footer {
 	text-align: center;
