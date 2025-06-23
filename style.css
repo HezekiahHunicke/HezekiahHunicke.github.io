@@ -132,16 +132,16 @@ p {
 	font-family: Courier, monospace, sans-serif;
 }
 
-.mono-all * {
+.compact-all * {
 	font-family: "georgia", a, sans-serif;
 	margin: 5px;
 }
 
-.mono-all h1 {
+.compact-all h1 {
 	margin: 30px 5px 5px 5px;
 }
 
-.mono-all h2 {
+.compact-all h2 {
 	margin: 30px 5px 5px 5px;
 }
 
