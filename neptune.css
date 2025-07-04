@@ -1,0 +1,208 @@
+/* reduced margins on small screens */
+
+@media only screen and (min-width: 601px) {
+	html, body {
+		padding: 0;
+		margin: 0;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	html, body {
+		padding: 0;
+		margin: 0;
+	}
+}
+
+html, body {
+		overflow-wrap: break-word;
+	}
+
+
+/* Loads web fonts */
+
+@font-face {
+	font-family: IMFell;
+	src: url(IMFellEnglish-Regular.ttf);
+}
+
+@font-face {
+	font-family: IMFelli;
+	src: url(IMFellEnglish-Italic.ttf);
+}
+
+/* Sets default font (Courier is not used for blocks of text like <p>, which use Georgia).
+Sets default text color (--fg)
+Note that in practice, background-color --bg4 will apply ONLY to <body>.
+All child elements are within a <div id="box"> which uses --bg1.
+This allows me different-colored margins. */
+
+body {
+	background-color: #CCE6E6;
+	color: white;
+	font-family: IMFell, monospace, sans-serif;
+/*	background-image: url(rock.jpg);
+	background-size: 50% */
+}
+
+@media only screen and (max-width: 600px) {
+	body {
+		
+	}
+}
+
+/* Styling for Headings */
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	color: var(--yellow);
+	text-align: center;
+}
+
+h3 {
+	color: var(--orange);
+}
+
+/* A nice readable font for larger blocks of text */
+
+p {
+	font-family: IMFell, serif;
+	margin: 0 100px initial 0;
+}
+
+li {
+	font-family: Georgia, serif;
+}
+
+/* Lets me easily choose whether an element is serif or monospace */
+
+.serif {
+	font-family: Georgia, serif;
+}
+
+.mono {
+	font-family: Courier, monospace, sans-serif;
+}
+
+.compact-all * {
+	margin: 5px;
+}
+
+.compact-all h1 {
+	margin: 30px 5px 5px 5px;
+}
+
+.compact-all h2 {
+	margin: 30px 5px 5px 5px;
+}
+
+/* subtitle */
+
+.tagline {
+	margin: initial
+	text-align: center;
+	font-family: IMFelli, monospace, sans-serif;
+	font-style: italic;
+	color: black;
+	margin: 0;
+}
+
+/* Link Styling. My links show an outline on hover.
+They do not change color if visited */
+
+a {
+	color: white;
+}
+
+a:link {
+
+}
+
+a:visited {
+}
+
+
+a:hover {
+	outline: 1px dotted;
+}
+
+	/* My custom styling for lists of links
+	::marker is to make bullets the color I want
+	Margins of ul are set to zero because default is excessive IMO */
+
+.listlink {
+	text-decoration: none;
+	::marker {
+		color: var(--fg);
+	}
+}
+
+.listlink i {
+	color: var(--fg3);
+}
+
+.listlink img {
+	max-height: 1em;
+	max-width: 1em;
+}
+
+.listlink ul {
+	margin: 0px 0px 0px 0px;
+}
+
+.listlink li {
+	font-family: courier;
+}
+
+/* This is how I make the 'page' look.
+Reduced marins on small screens */
+
+@media only screen and (min-width: 601px) {
+	#box {
+		height: 100%;
+		background-color: white;
+/*		outline-style: solid; */
+		max-width: 700px;
+		margin: 10px 20% 10px 10%;
+		padding: default;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	#box {
+		height: 100%;
+		background-color: white;
+/*		outline-style: solid; */
+		max-width: 900px;
+		margin: 0px;
+		padding: 10px;
+	}
+}
+
+pre {
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+footer {
+	text-align: center;
+	color: black;
+}
+
+.art {
+	margin: 0 0 -1px 0;
+	padding: 0;
+	box-sizing: border-box
+}
+
+
+
+p {
+
+	font-family: IMFell, serif;
+	
+}
