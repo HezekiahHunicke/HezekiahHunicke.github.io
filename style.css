@@ -62,6 +62,38 @@ h3 {
 	color: var(--orange);
 }
 
+/* A nice readable font for larger blocks of text */
+
+p {
+	font-family: Georgia, serif;
+}
+
+li {
+	font-family: Georgia, serif;
+}
+
+/* Lets me easily choose whether an element is serif or monospace */
+
+.serif {
+	font-family: Georgia, serif;
+}
+
+.mono {
+	font-family: Courier, monospace, sans-serif;
+}
+
+.compact-all * {
+	margin: 5px;
+}
+
+.compact-all h1 {
+	margin: 30px 5px 5px 5px;
+}
+
+.compact-all h2 {
+	margin: 30px 5px 5px 5px;
+}
+
 /* subtitle */
 
 .tagline {
@@ -116,33 +148,8 @@ a:hover {
 	margin: 0px 0px 0px 0px;
 }
 
-/* A nice readable font for larger blocks of text */
-
-p {
-	font-family: Georgia, serif;
-}
-
-/* Lets me easily choose whether an element is serif or monospace */
-
-.serif {
-	font-family: Georgia, serif;
-}
-
-.mono {
-	font-family: Courier, monospace, sans-serif;
-}
-
-.compact-all * {
-	font-family: "georgia", a, sans-serif;
-	margin: 5px;
-}
-
-.compact-all h1 {
-	margin: 30px 5px 5px 5px;
-}
-
-.compact-all h2 {
-	margin: 30px 5px 5px 5px;
+.listlink li {
+	font-family: courier;
 }
 
 /* This is how I make the 'page' look.
