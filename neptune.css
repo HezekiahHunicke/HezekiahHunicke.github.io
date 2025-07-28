@@ -17,7 +17,7 @@ html, body {
 }
 
 body {
-	background-color: #CCE6E6;
+	background-color: white;
 	color: white;
 	font-family: IMFell, Georgia, "Times new roman", Times, serif;
 }
@@ -29,7 +29,7 @@ h1 {
 
 p {
 	font-family: IMFell, serif;
-	margin: 0 100px initial 0;
+	<!-- margin: 0 100px initial 0; -->
 }
 
 /* subtitle */
