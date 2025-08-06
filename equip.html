@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/x-icon" href="favicon.ico">
+	<link rel="stylesheet" href="gruvbox-dark.css">
+	<link rel="stylesheet" href="style.css">
+	<title>hunicke.com</title>
+</head>
+
+<body>
+
+<div class="grid">
+
+<div class="gheader">
+
+	<p id="header">Hunicke.com</p>
+
+</div>
+
+<div class="gside"><div class="side">
+
+<p><a href="index.html">Home</a></p>
+<p><a href="articles.html">Writings</a></p>
+<p><a href="links.html">Links</a></p>
+<p><a href="contact.html">Contact</a></p>
+
+</div></div>
+
+<div class="gcontent">
+<div class="content">
+
+
+<h1>My Toolbox</h1>
+
+<p>Some things, all of which I use and some of which I recommend.</p>
+
+<h2>Hardware</h2>
+
+<p>On the hardware side my equipment is rather jury-rigged. My main computer is a 2019 MacBook Pro. I also have a 2017 MacBook with a broken screen I've adopted as a desktop computer. I removed the old screen (not easy) so I could use the built-in touchpad, keyboard, and touchbar without the broken screen being in the way (this is often called a "headless MacBook"). Both are getting a little old, but they're still more than capable enough for what I use them for.<p>
+
+<h2>Software</h2>
+<h3>Web Browsers</h3>
+<p>I use <a href="https://librewolf.net/">LibreWolf</a>, a fork of Firefox with no telemetry or ads, uBlock Origin already installed, and better default privacy settings.<p>
+<p>Some websites absolutely will not work on anything that isn't Google Chrome, and for such cases I use <a href="https://github.com/ungoogled-software/ungoogled-chromium">ungoogled-chromium</a>, which is just Chrome/Chromium without Google integration. It is intentionally not locked down so needy sites don't break.<p>
+
+<h2>Software-Defined Radio (SDR)</h2>
+<p>I have an SDR which I use to listen to a variety of radio bands including shortwave, GMRS, and various amateur (ham) bands.</p>
+<p>Software-defined radios are nice because they allow you to listen to most any band with much more flexibility than a hardware radio. They work by taking radio signals and converting them to a computer-readable format to be decoded by a specialized program. This program can manipulate the signals in ways that any single hardware receiver can not. Most SDRs, including mine, are receivers only.
+<p>My SDR is an <a href="https://www.sdrplay.com/rspdx/">SDRplay RSPdx</a>. Unfortunately I can not actually recommend it. It is pretty nice in regards to actual performance as a radio receiver; but it is hopelessly shackled by an <em>abysmally</em> bad proprietary API. SDR programs must interface with the API to use the RSPdx, but said API is constantly breaking and rarely works. I could write pages and pages about this, but let it suffice to say that the hardware you are getting from SDRplay is not worth the software you must deal with. There are a number of other SDRs on the market, though I have not researched or used any myself.<p>
+
+<p>On the software side, I am using <a href="https://www.sdrpp.org/">SDR++</a>, which in contrast I am quite happy with. I'm no expert so I can't explain it in detail, but it works well (issues with SDRplay notwithstanding), does what I want it to, and is free and open-source software.</p>
+
+</div>
+</div>
+
+</div>
+</body>
+</html>

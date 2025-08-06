@@ -1,22 +1,95 @@
-/* reduced margins on small screens */
-
-@media only screen and (min-width: 601px) {
-	html, body {
-		padding: 10px 5px;
-		margin: 4px;
-	}
-}
-
-@media only screen and (max-width: 600px) {
-	html, body {
-		padding: 0;
-		margin: 0;
-	}
-}
-
 html, body {
-		overflow-wrap: break-word;
-	}
+	overflow-wrap: break-word;
+	margin: 0;
+	height: 100%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+}
+
+div {
+	margin: 0;
+	padding: 0;
+}
+
+
+@media (min-width: 650px) {
+#header {
+	color: var(--fg4);
+	font-family: J24, "geOrgia", monospace, sans-serif;
+	font-size: 100pt;
+	margin: 0px;
+	text-align: center;
+}
+}
+
+@media (max-width: 649px) {
+#header {
+	color: var(--fg4);
+	font-family: J24, "geOrgia", monospace, sans-serif;
+	font-size: 20vw;
+	margin: 0px;
+	text-align: center;
+}
+}
+
+
+
+.grid {
+	flex: 1;
+	display: grid;
+	margin: 0;
+	grid-template-columns: 1fr 5fr;
+	grid-template-rows: auto 1fr;
+	min-height: 100%;
+}
+
+.gheader {
+	grid-column: 1 / span 2;
+	grid-row: 1;
+	border-style: hidden hidden solid hidden;
+	border-color: var(--fg4);
+}
+
+.gside {
+	grid-column: 1;
+	grid-row: 2;
+	border-style: hidden solid hidden hidden;
+	border-color: var(--fg4);
+}
+
+.gside * {
+	font-size: 15pt;
+	color: var(--blue);
+}
+
+.side {
+	max-width: 80%;
+	margin: auto;
+}
+
+
+.gcontent {
+	grid-column: 2;
+	grid-row: 2;
+	background-color: var(--bg_h);
+	display: flex;
+	flex-direction: column;
+}
+
+.content {
+	flex: 1;
+	background-color: var(--bg_h);
+	max-width: 800px;
+	margin: 5% 20% 5% 10%;
+}
+
+
+
+
+
 
 
 /* Loads web fonts */
@@ -26,49 +99,53 @@ html, body {
 	src: url(IMFellEnglish-Regular.ttf);
 } */
 
-/* Sets default font (Courier is not used for blocks of text like <p>, which use Georgia).
+@font-face {
+	font-family: J24;
+	src: url(J24.ttf);
+}
+
+/* Sets default font (geOrgia is not used for blocks of text like <p>, which use Georgia).
 Sets default text color (--fg)
-Note that in practice, background-color --bg4 will apply ONLY to <body>.
-All child elements are within a <div id="box"> which uses --bg1.
+Note that in practice, background-color --bg_h4 will apply ONLY to <body>.
+All child elements are within a <div id="box"> which uses --bg_h1.
 This allows me different-colored margins. */
 
 body {
-	background-color: var(--bg);
-	color: var(--fg);
-	font-family: "courier", monospace, sans-serif;
+	background-color: var(--bg_h);
+	color: var(--fg1);
+	font-family: "geOrgia", monospace, sans-serif;
 /*	background-image: url(rock.jpg);
 	background-size: 50% */
 }
 
-@media only screen and (max-width: 600px) {
-	body {
-		background-color: var(--bg1);
-	}
-}
 
 /* Styling for Headings */
 
 h1 {
-	text-align: center;
-	color: var(--green);
+	color: #8FAB74;
 }
 
 h2 {
-	color: var(--yellow);
-	text-align: center;
+	color: #BAB66D;
 }
 
 h3 {
-	color: var(--orange);
+	color: #C88659;
 }
 
 /* A nice readable font for larger blocks of text */
 
 p {
 	font-family: Georgia, serif;
+	font-size: 12pt;
+	ine-height: 150%;
 }
 
 li {
+	font-family: Georgia, serif;
+}
+
+blockquote {
 	font-family: Georgia, serif;
 }
 
@@ -79,7 +156,7 @@ li {
 }
 
 .mono {
-	font-family: Courier, monospace, sans-serif;
+	font-family: geOrgia, monospace, sans-serif;
 }
 
 .compact-all * {
@@ -98,7 +175,7 @@ li {
 
 .tagline {
 	text-align: center;
-	font-family: Courier, monospace, sans-serif;
+	font-family: geOrgia, monospace, sans-serif;
 	font-style: italic;
 	color: var(--fg3);
 	margin: 0;
@@ -108,7 +185,7 @@ li {
 They do not change color if visited */
 
 a {
-	color: LightBlue;
+	color: var(--blue);
 }
 
 a:link {
@@ -149,33 +226,13 @@ a:hover {
 }
 
 .listlink li {
-	font-family: courier;
+	font-family: geOrgia;
 }
 
-/* This is how I make the 'page' look.
-Reduced marins on small screens */
 
-@media only screen and (min-width: 601px) {
-	#box {
-		height: 100%;
-		background-color: var(--bg1);
-/*		outline-style: solid; */
-		max-width: 900px;
-		margin: auto;
-		padding: 50px;
-	}
-}
 
-@media only screen and (max-width: 600px) {
-	#box {
-		height: 100%;
-		background-color: var(--bg1);
-/*		outline-style: solid; */
-		max-width: 900px;
-		margin: 0px;
-		padding: 10px;
-	}
-}
+
+
 
 pre {
 	white-space: pre-wrap;
