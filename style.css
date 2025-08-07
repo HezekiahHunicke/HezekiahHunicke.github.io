@@ -243,3 +243,20 @@ footer {
 	text-align: center;
 	color: var(--fg4);
 }
+
+
+table {
+	width: 100%;
+	max-width: 400px;
+}
+
+table, th, td {
+	border: 1px solid;
+	border-collapse: collapse;
+
+}
+
+td {
+	padding: 5px;
+	
+}
