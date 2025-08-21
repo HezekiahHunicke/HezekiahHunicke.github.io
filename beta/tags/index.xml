@@ -1,0 +1,123 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>My New Hugo Site</title>
+	<link>https://hunicke.com/tags/</link>
+	<description>Recent content in Tags on My New Hugo Site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="https://hunicke.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>About</title>
+		<link>https://hunicke.com/about/</link>
+		<pubDate>Wed, 20 Aug 2025 14:47:36 -0700</pubDate>
+		
+		<guid>https://hunicke.com/about/</guid>
+		<description>&lt;p&gt;Hi! I&amp;rsquo;m Hezekiah Hunicke.
+I am a 17 years old, I enjoy reading and writing, spending time in nature, and old things.&lt;/p&gt;
+&lt;h1 id=&#34;about-this-website&#34;&gt;About this Website&lt;/h1&gt;
+&lt;p&gt;This website is a place to share my thoughts. It is hand coded by me, though I plan on migrating it to Hugo sometime soon.&lt;/p&gt;
+&lt;h2 id=&#34;certis-est&#34;&gt;Certis est&lt;/h2&gt;
+&lt;p&gt;Lorem markdownum bene &lt;strong&gt;dixit&lt;/strong&gt; ritus sedesque versatus madefacta es territaque
+sibi quodque, vota &lt;strong&gt;bos sequiturque&lt;/strong&gt; rata cantibus qui. In artes sine una
+longum redditur tenuit non undas contigero vides: breve potest angue. Mens
+siqua, fama, Atridae caput, vos posuere hiems pro amissi coniunx et eunt finis
+Aiax Epiros magni. Latet nisi valet, et ipse pavet, conterit duo petit pugnam,
+coma membris vicerat.&lt;/p&gt;
+&lt;p&gt;Et fallor, disiunxisse corpora quibus attonitaeque fugam squalentia vocem
+&lt;strong&gt;massa grata&lt;/strong&gt;. Manu cursus. Reddit quies. &lt;em&gt;Oves maius&lt;/em&gt;, mora avertens adunco
+&lt;strong&gt;Eurus nuper&lt;/strong&gt; mensas tantum pedum; nec.&lt;/p&gt;
+&lt;h2 id=&#34;blanditiasque-iaces-sic-locis&#34;&gt;Blanditiasque iaces sic locis&lt;/h2&gt;
+&lt;p&gt;Gratia inde aetherioque iano Typhoea secum ante; vulnera regna sed reliquit
+perque Amphitryoniadae. Infantem et solvi neque non tangit, dolusque pudetque:
+&lt;strong&gt;saxo&lt;/strong&gt; hunc quae minuunt armis.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Adspicit incanduit delata et vocari &lt;em&gt;Dicta&lt;/em&gt;, erit est instabilesque aqua an
+hospes medium matrisque. Cebrenida ultor, miserarum bisulcam concilio errent
+indigestaque torum secum!&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;tangit-stratosque-priamus-quotiens&#34;&gt;Tangit stratosque Priamus quotiens&lt;/h2&gt;
+&lt;p&gt;Recolligis pabula &lt;strong&gt;herbis&lt;/strong&gt; annis hunc corpus umero nescio, conplexus nec at
+sed. Iungere nunc quod nunc dextroque recusem finibus, ceu breve &lt;em&gt;arcus&lt;/em&gt;
+quodcumque. Tempus illic illo vertere silvas: quid senioribus, quo acta Penthea,
+strepitum dabitur simul.&lt;/p&gt;
+&lt;p&gt;Queritur accipiter accenseor quanta sumitque: choreas carminibus sanguis,
+Melaneus, se. Carica pariter lugent condi rursusque culpa cervum indotata &lt;a href=&#34;#blanditiasque-iaces-sic-locis&#34;&gt;etiam
+numen albentibus&lt;/a&gt; iussa; medi matrem, Lethaea
+fiet. Sumus edidit; murmur te lacrimis facietque Cyllenius totiens; parem
+lacrimosa Haemonia ambage, cum inmissa illa pinnas. Unde ausa ramos &lt;strong&gt;taurorum
+induitur exsangue&lt;/strong&gt; Cyllene valvas nec, temploque: est honore &lt;strong&gt;Ixione quod&lt;/strong&gt;
+huc est aliis &lt;a href=&#34;#pressistis-editus-gente&#34;&gt;quorum&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;pressistis-editus-gente&#34;&gt;Pressistis editus gente&lt;/h2&gt;
+&lt;p&gt;Plumbo scelus ficto est Dixit &lt;strong&gt;infectis Oceanum tendite&lt;/strong&gt; inania, Nec non.
+Iuncta opemque pars vos mallem, quo via tamen &lt;strong&gt;ferre annisque&lt;/strong&gt; nam nondum mei
+et de. Speciem Iuppiter; est &lt;em&gt;ora quem toros&lt;/em&gt;! A Phoebe velle vestes hoc &lt;a href=&#34;#pressistis-editus-gente&#34;&gt;talia
+quae&lt;/a&gt; iam? Eque detque, auraeque Cyllenide at longos,
+Pirithoum teste specus tactuque, loci &lt;strong&gt;sed&lt;/strong&gt; iaculoque domito inane insurgere
+similes.&lt;/p&gt;
+&lt;p&gt;Fulmen matris! Gentisque tulit ore.&lt;/p&gt;
+&lt;p&gt;Tamen regia Cinyras huius; geminas quondam cortice aquis animi conversa spondere
+fuit. Molles feriente, lacertis si studioque Idas, diu undas natus.&lt;/p&gt;
+&lt;h2 id=&#34;my-setup&#34;&gt;My Setup&lt;/h2&gt;
+
+
+
+&lt;table style=&#34;display: inline-table;&#34;&gt;
+	&lt;tr&gt;
+		&lt;th colspan=&#34;2&#34;&gt;Laptop&lt;/th&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Model&lt;/td&gt;
+		&lt;td&gt;2019 MacBook Pro 16-inch&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;CPU&lt;/td&gt;
+		&lt;td&gt;2.3 GHz 8-Core Intel i9&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;RAM&lt;/td&gt;
+		&lt;td&gt;16 GB 2667 MHz DDR4&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;OS&lt;/td&gt;
+		&lt;td&gt;Mac OS X Sequoia&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+
+&lt;table style=&#34;display: inline-table;&#34;&gt;
+	&lt;tr&gt;
+		&lt;th colspan=&#34;2&#34;&gt;Desktop&lt;/th&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Model&lt;/td&gt;
+		&lt;td&gt;2017 MacBook Pro 15-inch (&#39;headless&#39;)&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;CPU&lt;/td&gt;
+		&lt;td&gt;2.8 GHz Quad-Core Intel Core i7&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;RAM&lt;/td&gt;
+		&lt;td&gt;16 GB 2133 MHz LPDDR3&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;OS&lt;/td&gt;
+		&lt;td&gt;Mac OS X Ventura&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+
+
+</description>
+	</item>
+	
+	</channel>
+</rss>
