@@ -1,13 +1,41 @@
+
+	/* Huno */
+
 html, body {
 	overflow-wrap: break-word;
 	margin: 0;
 	height: 100%;
 }
 
-body {
-	display: flex;
-	flex-direction: column;
+
+header {
+	margin-top: 70px;
 }
+
+body {
+	
+	margin: auto;
+}
+
+
+#box {
+	clear: both;
+	padding: 20px;
+	border: solid 5px var(--fg4);
+	background-color: var(--bg_h);
+	
+}
+
+#preprebox {
+	max-width: 1030px;
+	margin: auto;
+}
+
+#prebox {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
 
 div {
 	margin: 0;
@@ -15,81 +43,61 @@ div {
 }
 
 
-@media (min-width: 650px) {
-#header {
-	color: var(--fg4);
+#banner {
+	color: var(--bg1);
 	font-family: J24, "geOrgia", monospace, sans-serif;
-	font-size: 100pt;
 	margin: 0px;
-	text-align: center;
-}
+	line-height: 1;
+	display: inline-block;
 }
 
-@media (max-width: 649px) {
-#header {
-	color: var(--fg4);
-	font-family: J24, "geOrgia", monospace, sans-serif;
-	font-size: 20vw;
-	margin: 0px;
-	text-align: center;
-}
+#banner a {
+	color: var(--bg3);
+	text-decoration: none;
 }
 
 
-
-.grid {
-	flex: 1;
-	display: grid;
-	margin: 0;
-	grid-template-columns: 1fr 5fr;
-	grid-template-rows: auto 1fr;
-	min-height: 100%;
-}
-
-.gheader {
-	grid-column: 1 / span 2;
-	grid-row: 1;
-	border-style: hidden hidden solid hidden;
-	border-color: var(--fg4);
-}
-
-.gside {
-	grid-column: 1;
-	grid-row: 2;
-	border-style: hidden solid hidden hidden;
-	border-color: var(--fg4);
-}
-
-.gside * {
-	font-size: 15pt;
-	color: var(--blue);
-}
-
-.side {
-	max-width: 80%;
-	margin: auto;
+#banner {
+	font-size: 40pt;
 }
 
 
-.gcontent {
-	grid-column: 2;
-	grid-row: 2;
-	background-color: var(--bg_h);
-	display: flex;
-	flex-direction: column;
-}
-
-.content {
-	flex: 1;
-	background-color: var(--bg_h);
-	max-width: 800px;
-	margin: 5% 20% 5% 10%;
+nav {
+	
+	display: flow-root;
+	text-align: right;
+	font-size: x-large;
+	float: right;
+	margin-top: 20px;
 }
 
 
 
+footer {
+	padding-bottom: 20px;
+}
 
 
+
+@media screen and (max-width: 50em) {
+
+	nav {
+		margin-top: 0px;
+		float: none;
+		text-align: center;
+		padding-bottom: 5px;
+	}
+
+	#banner {
+		text-align: center;
+	}
+	header {
+		margin-top: 0px;
+	}
+	footer {
+		padding-bottom: 0.25px;
+	}
+}
 
 
 /* Loads web fonts */
@@ -101,95 +109,56 @@ div {
 
 @font-face {
 	font-family: J24;
-	src: url(J24.ttf);
+	src: url(/Jacquard_24/Jacquard24-Regular.ttf);
 }
 
-/* Sets default font (geOrgia is not used for blocks of text like <p>, which use Georgia).
-Sets default text color (--fg)
-Note that in practice, background-color --bg_h4 will apply ONLY to <body>.
-All child elements are within a <div id="box"> which uses --bg_h1.
-This allows me different-colored margins. */
 
 body {
-	background-color: var(--bg_h);
-	color: var(--fg1);
-	font-family: "geOrgia", monospace, sans-serif;
-/*	background-image: url(rock.jpg);
-	background-size: 50% */
+	background-color: #2c3320;
+	color: var(--fg);
+	font-family: geOrgia, times, serif;
 }
+
+
+nav a {
+	text-decoration: none;
+	color: var(--bg3);
+}
+
 
 
 /* Styling for Headings */
 
 h1 {
-	color: #8FAB74;
+	color: var(--green);
 }
 
 h2 {
-	color: #BAB66D;
+	color: var(--yellow);
 }
 
 h3 {
-	color: #C88659;
+	color: var(--orange);
 }
 
-/* A nice readable font for larger blocks of text */
 
-p {
-	font-family: Georgia, serif;
-	font-size: 12pt;
-	ine-height: 150%;
-}
 
-li {
-	font-family: Georgia, serif;
-}
-
-blockquote {
-	font-family: Georgia, serif;
-}
-
-/* Lets me easily choose whether an element is serif or monospace */
-
-.serif {
-	font-family: Georgia, serif;
-}
-
-.mono {
-	font-family: geOrgia, monospace, sans-serif;
-}
-
-.compact-all * {
-	margin: 5px;
-}
-
-.compact-all h1 {
-	margin: 30px 5px 5px 5px;
-}
-
-.compact-all h2 {
-	margin: 30px 5px 5px 5px;
-}
-
-/* subtitle */
+/* subtitle
 
 .tagline {
 	text-align: center;
-	font-family: geOrgia, monospace, sans-serif;
+	font-family: geOrgia, times, serif;
 	font-style: italic;
-	color: var(--fg3);
 	margin: 0;
 }
-
-/* Link Styling. My links show an outline on hover.
-They do not change color if visited */
+*/
 
 a {
 	color: var(--blue);
 }
 
 a:link {
-	text-decoration: none;
+	
 }
 
 a:visited {
@@ -198,65 +167,44 @@ a:visited {
 
 
 a:hover {
-	outline: 1px dotted;
+	
 }
 
-	/* My custom styling for lists of links
-	::marker is to make bullets the color I want
-	Margins of ul are set to zero because default is excessive IMO */
 
-.listlink {
-	text-decoration: none;
-	::marker {
-		color: var(--fg);
-	}
-}
-
-.listlink i {
-	color: var(--fg3);
-}
-
-.listlink img {
-	max-height: 1em;
-	max-width: 1em;
-}
-
-.listlink ul {
-	margin: 0px 0px 0px 0px;
-}
-
-.listlink li {
-	font-family: geOrgia;
+.picframe {
+	border: solid 10px var(--bg4);
 }
 
 
 
 
 
-
-pre {
-	white-space: pre-wrap;
-	overflow-wrap: break-word;
-}
+	/* lugo */
 
 footer {
-	text-align: center;
-	color: var(--fg4);
+	text-align: center ;
+	color: var(--bg3);
+	clear: both ;
 }
 
-
-table {
-	width: 100%;
-	max-width: 400px;
+/* For TAGLIST.HTML */
+.taglist {
+	text-align: center ;
+	clear: both ;
 }
 
-table, th, td {
-	border: 1px solid;
-	border-collapse: collapse;
-
+/* For NEXTPREV.HTML */
+#nextprev {
+	/* The container for both the previous and next articles. */
 }
-
-td {
-	padding: 5px;
-	
+#prevart {
+	float: left ;
+	text-align: left ;
+}
+#nextart {
+	float: right ;
+	text-align: right ;
+}
+#nextart,#prevart {
+	max-width: 33% ;
 }

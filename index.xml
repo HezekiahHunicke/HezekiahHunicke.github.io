@@ -1,0 +1,86 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Hezekiah&#39;s Web Site</title>
+	<link>https://hunicke.com/</link>
+	<description>Recent content on Hezekiah&#39;s Web Site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Wed, 20 Aug 2025 13:47:13 -0700</lastBuildDate>
+    
+        <atom:link href="https://hunicke.com/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Links</title>
+		<link>https://hunicke.com/links/</link>
+		<pubDate>Fri, 22 Aug 2025 09:58:27 -0700</pubDate>
+		
+		<guid>https://hunicke.com/links/</guid>
+		<description>&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://hunicke.com/buttons/anybrowser3.gif&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;https://hunicke.com/buttons/javascript.gif&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;https://hunicke.com/buttons/nocookie.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;https://based.cooking&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/basedcooking.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://notrelated.xyz&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/not_related.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://lindypress.net&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/lindypress.webp&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://landchad.net&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/landchad.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://wiby.org&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/wiby.org.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://librewolf.net&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/LibreWolf.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://gohugo.io&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/hugo.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
+&lt;h3 id=&#34;resources-used&#34;&gt;Resources Used&lt;/h3&gt;
+&lt;p&gt;For the patterned backgrounds on this site I have used &lt;a href=&#34;https://heropatterns.com&#34;&gt;heropatterns.com&lt;/a&gt; by Steve Schoger, a very cool resource for customizable, SVG-based repeating patterns. They are provided under a Creative Commons attribution license.&lt;/p&gt;
+&lt;p&gt;The font used in my site banner is Jacquard 24 by Sarah Cadigan-Fried. It is provided under the Open Font License and is open-source. Sarah has made several very cool pixel-type fonts, which are all available on her GitHub profile linked below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scfried&#34;&gt;Sarah Cadigan-Fried&amp;rsquo;s GitHub profile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hunicke.com/Jacquard_24/OFL.txt&#34;&gt;License for Jacquard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scfried/soft-type-jacquard&#34;&gt;The repository for Jacquard on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This site is built using Hugo, a simple and lightweight static-site generator (SSG) written in Go. You can learn more about Hugo at &lt;a href=&#34;https://gohugo.io&#34;&gt;gohugo.io&lt;/a&gt;. My Hugo theme is adapted from &lt;a href=&#34;https://github.com/lukesmithxyz/lugo&#34;&gt;lugo&lt;/a&gt; by Luke Smith. You need a theme to get started with Hugo, and lugo is a very minimal sort of tutorial theme that has enough to get you going while still being easy to rewrite to meet your needs. &lt;a href=&#34;https://youtu.be/ZFL09qhKi5I?si=2vaOCj76dAeFrmsh&#34;&gt;See Luke&amp;rsquo;s Hugo tutorial on YouTube&lt;/a&gt;.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Contact</title>
+		<link>https://hunicke.com/contact/</link>
+		<pubDate>Thu, 21 Aug 2025 09:50:25 -0700</pubDate>
+		
+		<guid>https://hunicke.com/contact/</guid>
+		<description>&lt;h1 id=&#34;contact-me&#34;&gt;Contact Me&lt;/h1&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt; my first name &amp;gt; [at] hunicke.com
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;My preferred method of contact is email.&lt;/p&gt;
+&lt;p&gt;I generally avoid using social media. However, I do have profiles on the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HezekiahHunicke&#34;&gt;GitHub / HezekiahHunicke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/hezekiahhunicke/&#34;&gt;LinkedIn / HezekiahHunicke&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://discordapp.com/users/1081060702447484938&#34;&gt;Discord / HezekiahHunicke&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About</title>
+		<link>https://hunicke.com/about/</link>
+		<pubDate>Wed, 20 Aug 2025 14:47:36 -0700</pubDate>
+		
+		<guid>https://hunicke.com/about/</guid>
+		<description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;This page isn&amp;rsquo;t finished yet!&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About</title>
+		<link>https://hunicke.com/academic/</link>
+		<pubDate>Wed, 20 Aug 2025 14:47:36 -0700</pubDate>
+		
+		<guid>https://hunicke.com/academic/</guid>
+		<description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;This page isn&amp;rsquo;t finished yet!&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About</title>
+		<link>https://hunicke.com/articles/</link>
+		<pubDate>Wed, 20 Aug 2025 14:47:36 -0700</pubDate>
+		
+		<guid>https://hunicke.com/articles/</guid>
+		<description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;This page isn&amp;rsquo;t finished yet!&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
