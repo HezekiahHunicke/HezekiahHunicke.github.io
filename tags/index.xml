@@ -15,29 +15,77 @@
 		<pubDate>Fri, 22 Aug 2025 09:58:27 -0700</pubDate>
 		
 		<guid>https://hunicke.com/links/</guid>
-		<description>&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://hunicke.com/buttons/anybrowser3.gif&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;https://hunicke.com/buttons/javascript.gif&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;https://hunicke.com/buttons/nocookie.gif&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;https://based.cooking&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/basedcooking.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://notrelated.xyz&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/not_related.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://lindypress.net&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/lindypress.webp&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://landchad.net&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/landchad.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://wiby.org&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/wiby.org.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://librewolf.net&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/LibreWolf.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://gohugo.io&#34;&gt;&lt;img src=&#34;https://hunicke.com/buttons/hugo.gif&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h2&gt;
-&lt;h3 id=&#34;resources-used&#34;&gt;Resources Used&lt;/h3&gt;
-&lt;p&gt;For the patterned backgrounds on this site I have used &lt;a href=&#34;https://heropatterns.com&#34;&gt;heropatterns.com&lt;/a&gt; by Steve Schoger, a very cool resource for customizable, SVG-based repeating patterns. They are provided under a Creative Commons attribution license.&lt;/p&gt;
-&lt;p&gt;The font used in my site banner is Jacquard 24 by Sarah Cadigan-Fried. It is provided under the Open Font License and is open-source. Sarah has made several very cool pixel-type fonts, which are all available on her GitHub profile linked below:&lt;/p&gt;
+		<description>&lt;p&gt;Links to various sites and resources around the internet. All of these pages are things I find intersting and are worth looking at. Inclusion ≠ Ideological Endorsement, obviously.&lt;/p&gt;
+&lt;div class=&#34;listlink&#34;&gt;
+&lt;!-- ## Buttons
+![](/buttons/anybrowser3.gif) ![](/buttons/javascript.gif) ![](/buttons/nocookie.gif) [![](/buttons/basedcooking.gif)](https://based.cooking) [![](/buttons/not_related.gif)](https://notrelated.xyz) [![](/buttons/lindypress.webp)](https://lindypress.net) [![](/buttons/landchad.gif)](https://landchad.net) [![](/buttons/wiby.org.gif)](https://wiby.org) [![](/buttons/LibreWolf.png)](https://librewolf.net) [![](/buttons/hugo.gif)](https://gohugo.io) --&gt;
+&lt;h2 id=&#34;personal-websites--blogs&#34;&gt;Personal Websites &amp;amp; Blogs&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/scfried&#34;&gt;Sarah Cadigan-Fried&amp;rsquo;s GitHub profile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hunicke.com/Jacquard_24/OFL.txt&#34;&gt;License for Jacquard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/scfried/soft-type-jacquard&#34;&gt;The repository for Jacquard on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz&#34;&gt;lukesmith.xyz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xn--gckvb8fzb.com/&#34;&gt;マリウス (Marius)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.devever.net/~hl/&#34;&gt;Hugo Landau&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meyerweb.com/&#34;&gt;meyerweb&lt;/a&gt; • Website and blog of Web legend Eric Meyer.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://koshka.love/&#34;&gt;Koshka&amp;rsquo;s Kingdom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ribo.zone/&#34;&gt;ribo.zone&lt;/a&gt; • A very cool piece of web design.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eldritchdata.neocities.org/&#34;&gt;ELDRITCHDATA&lt;/a&gt; • Linux and privacy site best known for blocking browsers that have javascript enabled (insert gigachad.jpg here).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;This site is built using Hugo, a simple and lightweight static-site generator (SSG) written in Go. You can learn more about Hugo at &lt;a href=&#34;https://gohugo.io&#34;&gt;gohugo.io&lt;/a&gt;. My Hugo theme is adapted from &lt;a href=&#34;https://github.com/lukesmithxyz/lugo&#34;&gt;lugo&lt;/a&gt; by Luke Smith. You need a theme to get started with Hugo, and lugo is a very minimal sort of tutorial theme that has enough to get you going while still being easy to rewrite to meet your needs. &lt;a href=&#34;https://youtu.be/ZFL09qhKi5I?si=2vaOCj76dAeFrmsh&#34;&gt;See Luke&amp;rsquo;s Hugo tutorial on YouTube&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lowtechmagazine.com/&#34;&gt;Low←Tech Magazine&lt;/a&gt; • Solar-powered website that questions the modern world&amp;rsquo;s obsession with technological progress. Looks for low-tech solutions to high-tech problems. Project of Kris de Decker.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://librewolf.net/&#34;&gt;LibreWolf&lt;/a&gt; • Build of Firefox with Mozilla trackers and bloat removed and better default settings.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; • The Static Site Generator I use for this website.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ungoogled-software.github.io/&#34;&gt;ungoogled-chromium&lt;/a&gt; • Build of Chromium with Google services and trackers removed.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sdrpp.org/&#34;&gt;SDR++&lt;/a&gt; • SDR++ is a cross-platform and open source SDR (Software Defined Radio) software with the aim of being bloat free and simple to use.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://karabiner-elements.pqrs.org/&#34;&gt;Karabiner-Elements&lt;/a&gt; • Powerful key remapper for MacOS X. Public Domain software.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;webrings--clubs&#34;&gt;Webrings &amp;amp; Clubs&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://heaventree.xyz/&#34;&gt;The Guild of Heaven Tree&lt;/a&gt; • Luke Smith-coded Christian webring.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://1mb.club/&#34;&gt;1MB Club&lt;/a&gt; • A selection of webpages under 1 MB.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://512kb.club/&#34;&gt;512KB Club&lt;/a&gt; • A selection of webpages under 512 KB.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://250kb.club/&#34;&gt;250KB Club&lt;/a&gt; • A selection of webpages under 256 KB.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://no-js.club/&#34;&gt;No-JS Club&lt;/a&gt; • A selection of webpages that do not use javascript.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nocss.club/&#34;&gt;No CSS Club&lt;/a&gt; • A selection of webpages that do not use CSS.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://no-html.club/&#34;&gt;No HTML Club&lt;/a&gt; • A selection of webpages that do not use HTML (yes, really).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;fun&#34;&gt;Fun&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hmpg.net/&#34;&gt;The last page of the internet&lt;/a&gt; • For when you just want to skip to the ending.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meyerweb.com/feeds/excuse/&#34;&gt;Excuse of the Day&lt;/a&gt; • Injecting daily palliations directly into your veins since the &amp;rsquo;90s.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;unsorted&#34;&gt;Unsorted&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://marginalia-search.com/&#34;&gt;Marginalia Search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiby.me/&#34;&gt;Wiby Search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://koshka.love/mwwwga.html&#34;&gt;Make the Web Great Again&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://landchad.net/&#34;&gt;LandChad.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lindypress.net/&#34;&gt;LindyPress.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notrelated.xyz/&#34;&gt;Not Related!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>Contact</title>
+		<title>Local Resources</title>
+		<link>https://hunicke.com/local-resources/</link>
+		<pubDate>Fri, 22 Aug 2025 09:58:27 -0700</pubDate>
+		
+		<guid>https://hunicke.com/local-resources/</guid>
+		<description>&lt;div class=&#34;listlink&#34;&gt;
+&lt;h2 id=&#34;newspapers-and-magazines&#34;&gt;Newspapers and Magazines&lt;/h2&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Contact Me</title>
 		<link>https://hunicke.com/contact/</link>
 		<pubDate>Thu, 21 Aug 2025 09:50:25 -0700</pubDate>
 		
 		<guid>https://hunicke.com/contact/</guid>
-		<description>&lt;h1 id=&#34;contact-me&#34;&gt;Contact Me&lt;/h1&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt; my first name &amp;gt; [at] hunicke.com
+		<description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt; my first name &amp;gt; [at] hunicke.com
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;My preferred method of contact is email.&lt;/p&gt;
 &lt;p&gt;I generally avoid using social media. However, I do have profiles on the following:&lt;/p&gt;
 &lt;ul&gt;
@@ -49,35 +97,43 @@
 	</item>
 	
 	<item>
-		<title>About</title>
+		<title>About this Website</title>
 		<link>https://hunicke.com/about/</link>
 		<pubDate>Wed, 20 Aug 2025 14:47:36 -0700</pubDate>
 		
 		<guid>https://hunicke.com/about/</guid>
-		<description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
-&lt;p&gt;This page isn&amp;rsquo;t finished yet!&lt;/p&gt;
+		<description>&lt;h2 id=&#34;resources-i-used&#34;&gt;Resources I Used&lt;/h2&gt;
+&lt;p&gt;The font used in my site banner is Jacquard 24 by Sarah Cadigan-Fried. It is provided under the Open Font License. Sarah has made several ornamental pixel-type fonts, which, interestingly enough, are actually designed for knitting. They are all available on her GitHub profile linked below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scfried&#34;&gt;Sarah Cadigan-Fried&amp;rsquo;s GitHub profile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hunicke.com/Jacquard_24/OFL.txt&#34;&gt;License for Jacquard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/scfried/soft-type-jacquard&#34;&gt;The repository for Jacquard on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For the patterned backgrounds on this site I have used &lt;a href=&#34;https://heropatterns.com&#34;&gt;heropatterns.com&lt;/a&gt; by Steve Schoger, a very cool resource for customizable, SVG-based repeating patterns. They are provided under a Creative Commons attribution license.&lt;/p&gt;
+&lt;h2 id=&#34;building-this-site&#34;&gt;Building this Site&lt;/h2&gt;
+&lt;p&gt;This site is built using Hugo, billed as a fast and flexible static-site generator (SSG) written in Go. You can learn more about Hugo at &lt;a href=&#34;https://gohugo.io&#34;&gt;gohugo.io&lt;/a&gt;. My Hugo theme is adapted from &lt;a href=&#34;https://github.com/lukesmithxyz/lugo&#34;&gt;lugo&lt;/a&gt; by Luke Smith. You need a theme to get started with Hugo, and lugo is a very minimal sort of tutorial theme that has enough to get you going while still being easy to rewrite to meet your needs. &lt;a href=&#34;https://youtu.be/ZFL09qhKi5I?si=2vaOCj76dAeFrmsh&#34;&gt;See Luke&amp;rsquo;s Hugo tutorial on YouTube&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;hosting&#34;&gt;Hosting&lt;/h2&gt;
+&lt;p&gt;This site is hosted on &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Pages&lt;/a&gt;, arguably the best (least limited) free static site host.&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>About</title>
+		<title>Academic</title>
 		<link>https://hunicke.com/academic/</link>
 		<pubDate>Wed, 20 Aug 2025 14:47:36 -0700</pubDate>
 		
 		<guid>https://hunicke.com/academic/</guid>
-		<description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
-&lt;p&gt;This page isn&amp;rsquo;t finished yet!&lt;/p&gt;
+		<description>&lt;p&gt;This page isn&amp;rsquo;t finished yet!&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>About</title>
+		<title>Articles</title>
 		<link>https://hunicke.com/articles/</link>
 		<pubDate>Wed, 20 Aug 2025 14:47:36 -0700</pubDate>
 		
 		<guid>https://hunicke.com/articles/</guid>
-		<description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
-&lt;p&gt;This page isn&amp;rsquo;t finished yet!&lt;/p&gt;
+		<description>&lt;p&gt;This page isn&amp;rsquo;t finished yet!&lt;/p&gt;
 </description>
 	</item>
 	
