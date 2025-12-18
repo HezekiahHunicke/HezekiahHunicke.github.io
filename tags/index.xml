@@ -5,135 +5,242 @@
 	<description>Recent content in Tags on Hezekiah&#39;s Web Site</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
+	<copyright>&amp;copy; MMXXVI-MMXXVII Hezekiah Hunicke</copyright>
+	<lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
     
         <atom:link href="https://hunicke.com/tags/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
-		<title>Links</title>
-		<link>https://hunicke.com/links/</link>
-		<pubDate>Fri, 22 Aug 2025 09:58:27 -0700</pubDate>
+		<title>The Declaration of Independence of The United States of America</title>
+		<link>https://hunicke.com/articles/doi/</link>
+		<pubDate>Tue, 09 Dec 2025 01:42:29 -0700</pubDate>
 		
-		<guid>https://hunicke.com/links/</guid>
-		<description>&lt;p&gt;Links to various sites and resources around the internet. All of these pages are things I find intersting and are worth looking at. Inclusion ≠ Ideological Endorsement, obviously.&lt;/p&gt;
-&lt;div class=&#34;listlink&#34;&gt;
-&lt;!-- ## Buttons
-![](/buttons/anybrowser3.gif) ![](/buttons/javascript.gif) ![](/buttons/nocookie.gif) [![](/buttons/basedcooking.gif)](https://based.cooking) [![](/buttons/not_related.gif)](https://notrelated.xyz) [![](/buttons/lindypress.webp)](https://lindypress.net) [![](/buttons/landchad.gif)](https://landchad.net) [![](/buttons/wiby.org.gif)](https://wiby.org) [![](/buttons/LibreWolf.png)](https://librewolf.net) [![](/buttons/hugo.gif)](https://gohugo.io) --&gt;
-&lt;h2 id=&#34;personal-websites--blogs&#34;&gt;Personal Websites &amp;amp; Blogs&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz&#34;&gt;lukesmith.xyz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://xn--gckvb8fzb.com/&#34;&gt;マリウス (Marius)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.devever.net/~hl/&#34;&gt;Hugo Landau&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://meyerweb.com/&#34;&gt;meyerweb&lt;/a&gt; • Website and blog of Web legend Eric Meyer.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://koshka.love/&#34;&gt;Koshka&amp;rsquo;s Kingdom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ribo.zone/&#34;&gt;ribo.zone&lt;/a&gt; • A very cool piece of web design.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://eldritchdata.neocities.org/&#34;&gt;ELDRITCHDATA&lt;/a&gt; • Linux and privacy site best known for blocking browsers that have javascript enabled (insert gigachad.jpg here).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lowtechmagazine.com/&#34;&gt;Low←Tech Magazine&lt;/a&gt; • Solar-powered website that questions the modern world&amp;rsquo;s obsession with technological progress. Looks for low-tech solutions to high-tech problems. Project of Kris de Decker.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://librewolf.net/&#34;&gt;LibreWolf&lt;/a&gt; • Build of Firefox with Mozilla trackers and bloat removed and better default settings.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; • The Static Site Generator I use for this website.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ungoogled-software.github.io/&#34;&gt;ungoogled-chromium&lt;/a&gt; • Build of Chromium with Google services and trackers removed.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sdrpp.org/&#34;&gt;SDR++&lt;/a&gt; • SDR++ is a cross-platform and open source SDR (Software Defined Radio) software with the aim of being bloat free and simple to use.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://karabiner-elements.pqrs.org/&#34;&gt;Karabiner-Elements&lt;/a&gt; • Powerful key remapper for MacOS X. Public Domain software.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;webrings--clubs&#34;&gt;Webrings &amp;amp; Clubs&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://heaventree.xyz/&#34;&gt;The Guild of Heaven Tree&lt;/a&gt; • Luke Smith-coded Christian webring.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://1mb.club/&#34;&gt;1MB Club&lt;/a&gt; • A selection of webpages under 1 MB.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://512kb.club/&#34;&gt;512KB Club&lt;/a&gt; • A selection of webpages under 512 KB.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://250kb.club/&#34;&gt;250KB Club&lt;/a&gt; • A selection of webpages under 256 KB.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://no-js.club/&#34;&gt;No-JS Club&lt;/a&gt; • A selection of webpages that do not use javascript.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://nocss.club/&#34;&gt;No CSS Club&lt;/a&gt; • A selection of webpages that do not use CSS.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://no-html.club/&#34;&gt;No HTML Club&lt;/a&gt; • A selection of webpages that do not use HTML (yes, really).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;fun&#34;&gt;Fun&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://hmpg.net/&#34;&gt;The last page of the internet&lt;/a&gt; • For when you just want to skip to the ending.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://meyerweb.com/feeds/excuse/&#34;&gt;Excuse of the Day&lt;/a&gt; • Injecting daily palliations directly into your veins since the &amp;rsquo;90s.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;unsorted&#34;&gt;Unsorted&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://marginalia-search.com/&#34;&gt;Marginalia Search&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://wiby.me/&#34;&gt;Wiby Search&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://koshka.love/mwwwga.html&#34;&gt;Make the Web Great Again&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://landchad.net/&#34;&gt;LandChad.net&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lindypress.net/&#34;&gt;LindyPress.net&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://notrelated.xyz/&#34;&gt;Not Related!&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+		<guid>https://hunicke.com/articles/doi/</guid>
+		<description>&lt;p&gt;When in the Course of human events, it becomes necessary for one people
+to dissolve the political bands which have connected them with another,
+and to assume, among the Powers of the earth, the separate and equal
+station to which the Laws of Nature and of Nature&amp;rsquo;s God entitle them, a
+decent respect to the opinions of mankind requires that they should
+declare the causes which impel them to the separation.&lt;/p&gt;
+&lt;p&gt;We hold these truths to be self-evident, that all men are created
+equal, that they are endowed by their Creator with certain unalienable
+Rights, that among these are Life, Liberty, and the pursuit of
+Happiness. That to secure these rights, Governments are instituted
+among Men, deriving their just powers from the consent of the governed,
+That whenever any Form of Government becomes destructive of these ends,
+it is the Right of the People to alter or to abolish it, and to
+institute new Government, laying its foundation on such principles and
+organizing its powers in such form, as to them shall seem most likely
+to effect their Safety and Happiness.  Prudence, indeed, will dictate
+that Governments long established should not be changed for light and
+transient causes; and accordingly all experience hath shown, that
+mankind are more disposed to suffer, while evils are sufferable, than
+to right themselves by abolishing the forms to which they are
+accustomed.  But when a long train of abuses and usurpations, pursuing
+invariably the same Object evinces a design to reduce them under
+absolute Despotism, it is their right, it is their duty, to throw off
+such Government, and to provide new Guards for their future security.
+&amp;ndash;Such has been the patient sufferance of these Colonies; and such is
+now the necessity which constrains them to alter their former Systems
+of Government. The history of the present King of Great Britain is a
+history of repeated injuries and usurpations, all having in direct
+object the establishment of an absolute Tyranny over these States.  To
+prove this, let Facts be submitted to a candid world.&lt;/p&gt;
+&lt;p&gt;He has refused his Assent to Laws, the most wholesome and necessary for
+the public good.&lt;/p&gt;
+&lt;p&gt;He has forbidden his Governors to pass Laws of immediate and pressing
+importance, unless suspended in their operation till his Assent should
+be obtained; and when so suspended, he has utterly neglected to attend
+to them.&lt;/p&gt;
+&lt;p&gt;He has refused to pass other Laws for the accommodation of large
+districts of people, unless those people would relinquish the right of
+Representation in the Legislature, a right inestimable to them and
+formidable to tyrants only.&lt;/p&gt;
+&lt;p&gt;He has called together legislative bodies at places unusual,
+uncomfortable, and distant from the depository of their Public Records,
+for the sole purpose of fatiguing them into compliance with his
+measures.&lt;/p&gt;
+&lt;p&gt;He has dissolved Representative Houses repeatedly, for opposing with
+manly firmness his invasions on the rights of the people.&lt;/p&gt;
+&lt;p&gt;He has refused for a long time, after such dissolutions, to cause
+others to be elected; whereby the Legislative Powers, incapable of
+Annihilation, have returned to the People at large for their exercise;
+the State remaining in the mean time exposed to all the dangers of
+invasion from without, and convulsions within.&lt;/p&gt;
+&lt;p&gt;He has endeavoured to prevent the population of these States; for that
+purpose obstructing the Laws of Naturalization of Foreigners; refusing
+to pass others to encourage their migration hither, and raising the
+conditions of new Appropriations of Lands.&lt;/p&gt;
+&lt;p&gt;He has obstructed the Administration of Justice, by refusing his Assent
+to Laws for establishing Judiciary Powers.&lt;/p&gt;
+&lt;p&gt;He has made judges dependent on his Will alone, for the tenure of their
+offices, and the amount and payment of their salaries.&lt;/p&gt;
+&lt;p&gt;He has erected a multitude of New Offices, and sent hither swarms of
+Officers to harass our People, and eat out their substance.&lt;/p&gt;
+&lt;p&gt;He has kept among us, in times of peace, Standing Armies without the
+Consent of our legislatures.&lt;/p&gt;
+&lt;p&gt;He has affected to render the Military independent of and superior to
+the Civil Power.&lt;/p&gt;
+&lt;p&gt;He has combined with others to subject us to a jurisdiction foreign to
+our constitution, and unacknowledged by our laws; giving his Assent to
+their Acts of pretended legislation:&lt;/p&gt;
+&lt;p&gt;For quartering large bodies of armed troops among us:&lt;/p&gt;
+&lt;p&gt;For protecting them, by a mock Trial, from Punishment for any Murders
+which they should commit on the Inhabitants of these States:&lt;/p&gt;
+&lt;p&gt;For cutting off our Trade with all parts of the world:&lt;/p&gt;
+&lt;p&gt;For imposing taxes on us without our Consent:&lt;/p&gt;
+&lt;p&gt;For depriving us, in many cases, of the benefits of Trial by Jury:&lt;/p&gt;
+&lt;p&gt;For transporting us beyond Seas to be tried for pretended offences:&lt;/p&gt;
+&lt;p&gt;For abolishing the free System of English Laws in a neighbouring
+Province, establishing therein an Arbitrary government, and enlarging
+its Boundaries so as to render it at once an example and fit instrument
+for introducing the same absolute rule into these Colonies:&lt;/p&gt;
+&lt;p&gt;For taking away our Charters, abolishing our most valuable Laws, and
+altering fundamentally the Forms of our Governments:&lt;/p&gt;
+&lt;p&gt;For suspending our own Legislatures, and declaring themselves invested
+with Power to legislate for us in all cases whatsoever.&lt;/p&gt;
+&lt;p&gt;He has abdicated Government here, by declaring us out of his Protection
+and waging War against us.&lt;/p&gt;
+&lt;p&gt;He has plundered our seas, ravaged our Coasts, burnt our towns, and
+destroyed the lives of our people.&lt;/p&gt;
+&lt;p&gt;He is at this time transporting large armies of foreign mercenaries to
+compleat the works of death, desolation and tyranny, already begun with
+circumstances of Cruelty &amp;amp; perfidy scarcely paralleled in the most
+barbarous ages, and totally unworthy of the Head of a civilized nation.&lt;/p&gt;
+&lt;p&gt;He has constrained our fellow Citizens taken Captive on the high Seas
+to bear Arms against their Country, to become the executioners of their
+friends and Brethren, or to fall themselves by their Hands.&lt;/p&gt;
+&lt;p&gt;He has excited domestic insurrections amongst us, and has endeavoured
+to bring on the inhabitants of our frontiers, the merciless Indian
+Savages, whose known rule of warfare, is an undistinguished destruction
+of all ages, sexes and conditions.&lt;/p&gt;
+&lt;p&gt;In every stage of these Oppressions We have Petitioned for Redress in
+the most humble terms:  Our repeated Petitions have been answered only
+by repeated injury.  A Prince, whose character is thus marked by every
+act which may define a Tyrant, is unfit to be the ruler of a free
+People.&lt;/p&gt;
+&lt;p&gt;Nor have We been wanting in attention to our British brethren. We have
+warned them from time to time of attempts by their legislature to
+extend an unwarrantable jurisdiction over us. We have reminded them of
+the circumstances of our emigration and settlement here.  We have
+appealed to their native justice and magnanimity, and we have conjured
+them by the ties of our common kindred to disavow these usurpations,
+which would inevitably interrupt our connections and correspondence.
+They too have been deaf to the voice of justice and of consanguinity.
+We must, therefore, acquiesce in the necessity, which denounces our
+Separation, and hold them, as we hold the rest of mankind, Enemies in
+War, in Peace Friends.&lt;/p&gt;
+&lt;p&gt;We, therefore, the Representatives of the United States of America, in
+General Congress, Assembled, appealing to the Supreme Judge of the
+world for the rectitude of our intentions, do, in the Name, and by the
+Authority of the good People of these Colonies, solemnly publish and
+declare, That these United Colonies are, and of Right ought to be Free
+and Independent States; that they are Absolved from all Allegiance to
+the British Crown, and that all political connection between them and
+the State of Great Britain, is and ought to be totally dissolved; and
+that as Free and Independent States, they have full Power to levy War,
+conclude Peace, contract Alliances, establish Commerce, and to do all
+other Acts and Things which Independent States may of right do.  And
+for the support of this Declaration, with a firm reliance on the
+Protection of Divine Providence, we mutually pledge to each other our
+Lives, our Fortunes and our sacred Honor.&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>Local Resources</title>
-		<link>https://hunicke.com/local-resources/</link>
-		<pubDate>Fri, 22 Aug 2025 09:58:27 -0700</pubDate>
+		<title>Post 3</title>
+		<link>https://hunicke.com/posts/post-3/</link>
+		<pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
 		
-		<guid>https://hunicke.com/local-resources/</guid>
-		<description>&lt;div class=&#34;listlink&#34;&gt;
-&lt;h2 id=&#34;newspapers-and-magazines&#34;&gt;Newspapers and Magazines&lt;/h2&gt;
+		<guid>https://hunicke.com/posts/post-3/</guid>
+		<description>&lt;p&gt;Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bryce-canyon.jpg&#34; alt=&#34;Bryce Canyon National Park&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Sit excepteur do velit veniam mollit in nostrud laboris incididunt ea. Amet eu cillum ut reprehenderit culpa aliquip labore laborum amet sit sit duis. Laborum id proident nostrud dolore laborum reprehenderit quis mollit nulla amet veniam officia id id. Aliquip in deserunt qui magna duis qui pariatur officia sunt deserunt.&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>Contact Me</title>
-		<link>https://hunicke.com/contact/</link>
-		<pubDate>Thu, 21 Aug 2025 09:50:25 -0700</pubDate>
+		<title>Post 2</title>
+		<link>https://hunicke.com/posts/post-2/</link>
+		<pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
 		
-		<guid>https://hunicke.com/contact/</guid>
-		<description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt; my first name &amp;gt; [at] hunicke.com
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;My preferred method of contact is email.&lt;/p&gt;
-&lt;p&gt;I generally avoid using social media. However, I do have profiles on the following:&lt;/p&gt;
+		<guid>https://hunicke.com/posts/post-2/</guid>
+		<description>&lt;p&gt;Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&lt;/p&gt;
+&lt;p&gt;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Post 1</title>
+		<link>https://hunicke.com/posts/post-1/</link>
+		<pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+		
+		<guid>https://hunicke.com/posts/post-1/</guid>
+		<description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;
+&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Nothing for You There - Russian Money</title>
+		<link>https://hunicke.com/songs/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://hunicke.com/songs/</guid>
+		<description>&lt;p&gt;Full album: &lt;a href=&#34;https://hunicke.com/NFYT/NFYT.zip&#34;&gt;NFYT.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hunicke.com/NFYT/cover.jpg&#34; alt=&#34;Album Cover&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/HezekiahHunicke&#34;&gt;GitHub / HezekiahHunicke&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/hezekiahhunicke/&#34;&gt;LinkedIn / HezekiahHunicke&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://discordapp.com/users/1081060702447484938&#34;&gt;Discord / HezekiahHunicke&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&#34;https://hunicke.com/NFYT/01%20One%20More%20Sinner.mp3&#34;&gt;01 One More Sinner.mp3&lt;/a&gt;&lt;br&gt;
+            &lt;audio controls src=&#34;https://hunicke.com/NFYT/01%20One%20More%20Sinner.mp3&#34;&gt;&lt;/audio&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&#34;https://hunicke.com/NFYT/02%20My%20Oh%20My.mp3&#34;&gt;02 My Oh My.mp3&lt;/a&gt;&lt;br&gt;
+            &lt;audio controls src=&#34;https://hunicke.com/NFYT/02%20My%20Oh%20My.mp3&#34;&gt;&lt;/audio&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&#34;https://hunicke.com/NFYT/03%20Money.mp3&#34;&gt;03 Money.mp3&lt;/a&gt;&lt;br&gt;
+            &lt;audio controls src=&#34;https://hunicke.com/NFYT/03%20Money.mp3&#34;&gt;&lt;/audio&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&#34;https://hunicke.com/NFYT/04%20Brighter%20Days.mp3&#34;&gt;04 Brighter Days.mp3&lt;/a&gt;&lt;br&gt;
+            &lt;audio controls src=&#34;https://hunicke.com/NFYT/04%20Brighter%20Days.mp3&#34;&gt;&lt;/audio&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&#34;https://hunicke.com/NFYT/05%20Drifter.mp3&#34;&gt;05 Drifter.mp3&lt;/a&gt;&lt;br&gt;
+            &lt;audio controls src=&#34;https://hunicke.com/NFYT/05%20Drifter.mp3&#34;&gt;&lt;/audio&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&#34;https://hunicke.com/NFYT/06%20The%20Gallows%20%20%28Russian%20Money%20Experience%29.mp3&#34;&gt;06 The Gallows  (Russian Money Experience).mp3&lt;/a&gt;&lt;br&gt;
+            &lt;audio controls src=&#34;https://hunicke.com/NFYT/06%20The%20Gallows%20%20%28Russian%20Money%20Experience%29.mp3&#34;&gt;&lt;/audio&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&#34;https://hunicke.com/NFYT/07%20Where%20Do%20We%20Go.mp3&#34;&gt;07 Where Do We Go.mp3&lt;/a&gt;&lt;br&gt;
+            &lt;audio controls src=&#34;https://hunicke.com/NFYT/07%20Where%20Do%20We%20Go.mp3&#34;&gt;&lt;/audio&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&#34;https://hunicke.com/NFYT/08%20Move%20With%20Me.mp3&#34;&gt;08 Move With Me.mp3&lt;/a&gt;&lt;br&gt;
+            &lt;audio controls src=&#34;https://hunicke.com/NFYT/08%20Move%20With%20Me.mp3&#34;&gt;&lt;/audio&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&#34;https://hunicke.com/NFYT/09%20Hey%20Mister%20%28Russian%20Money%20Experience%29.mp3&#34;&gt;09 Hey Mister (Russian Money Experience).mp3&lt;/a&gt;&lt;br&gt;
+            &lt;audio controls src=&#34;https://hunicke.com/NFYT/09%20Hey%20Mister%20%28Russian%20Money%20Experience%29.mp3&#34;&gt;&lt;/audio&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&#34;https://hunicke.com/NFYT/10%20River%20Run%20Dry.mp3&#34;&gt;10 River Run Dry.mp3&lt;/a&gt;&lt;br&gt;
+            &lt;audio controls src=&#34;https://hunicke.com/NFYT/10%20River%20Run%20Dry.mp3&#34;&gt;&lt;/audio&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&#34;https://hunicke.com/NFYT/11%20Somebody%20Died.mp3&#34;&gt;11 Somebody Died.mp3&lt;/a&gt;&lt;br&gt;
+            &lt;audio controls src=&#34;https://hunicke.com/NFYT/11%20Somebody%20Died.mp3&#34;&gt;&lt;/audio&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;a href=&#34;https://hunicke.com/NFYT/album.mp3&#34;&gt;album.mp3&lt;/a&gt;&lt;br&gt;
+            &lt;audio controls src=&#34;https://hunicke.com/NFYT/album.mp3&#34;&gt;&lt;/audio&gt;
+        &lt;/li&gt;
 &lt;/ul&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>About this Website</title>
-		<link>https://hunicke.com/about/</link>
-		<pubDate>Wed, 20 Aug 2025 14:47:36 -0700</pubDate>
-		
-		<guid>https://hunicke.com/about/</guid>
-		<description>&lt;h2 id=&#34;resources-i-used&#34;&gt;Resources I Used&lt;/h2&gt;
-&lt;p&gt;The font used in my site banner is Jacquard 24 by Sarah Cadigan-Fried. It is provided under the Open Font License. Sarah has made several ornamental pixel-type fonts, which, interestingly enough, are actually designed for knitting. They are all available on her GitHub profile linked below:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/scfried&#34;&gt;Sarah Cadigan-Fried&amp;rsquo;s GitHub profile&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hunicke.com/Jacquard_24/OFL.txt&#34;&gt;License for Jacquard&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/scfried/soft-type-jacquard&#34;&gt;The repository for Jacquard on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For the patterned backgrounds on this site I have used &lt;a href=&#34;https://heropatterns.com&#34;&gt;heropatterns.com&lt;/a&gt; by Steve Schoger, a very cool resource for customizable, SVG-based repeating patterns. They are provided under a Creative Commons attribution license.&lt;/p&gt;
-&lt;h2 id=&#34;building-this-site&#34;&gt;Building this Site&lt;/h2&gt;
-&lt;p&gt;This site is built using Hugo, billed as a fast and flexible static-site generator (SSG) written in Go. You can learn more about Hugo at &lt;a href=&#34;https://gohugo.io&#34;&gt;gohugo.io&lt;/a&gt;. My Hugo theme is adapted from &lt;a href=&#34;https://github.com/lukesmithxyz/lugo&#34;&gt;lugo&lt;/a&gt; by Luke Smith. You need a theme to get started with Hugo, and lugo is a very minimal sort of tutorial theme that has enough to get you going while still being easy to rewrite to meet your needs. &lt;a href=&#34;https://youtu.be/ZFL09qhKi5I?si=2vaOCj76dAeFrmsh&#34;&gt;See Luke&amp;rsquo;s Hugo tutorial on YouTube&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;hosting&#34;&gt;Hosting&lt;/h2&gt;
-&lt;p&gt;This site is hosted on &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Pages&lt;/a&gt;, arguably the best (least limited) free static site host.&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>Academic</title>
-		<link>https://hunicke.com/academic/</link>
-		<pubDate>Wed, 20 Aug 2025 14:47:36 -0700</pubDate>
-		
-		<guid>https://hunicke.com/academic/</guid>
-		<description>&lt;p&gt;This page isn&amp;rsquo;t finished yet!&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>Articles</title>
-		<link>https://hunicke.com/articles/</link>
-		<pubDate>Wed, 20 Aug 2025 14:47:36 -0700</pubDate>
-		
-		<guid>https://hunicke.com/articles/</guid>
-		<description>&lt;p&gt;This page isn&amp;rsquo;t finished yet!&lt;/p&gt;
+
 </description>
 	</item>
 	
