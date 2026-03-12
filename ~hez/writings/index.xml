@@ -1,0 +1,510 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Hezekiah&#39;s Web Site</title>
+	<link>https://www.hunicke.net/~hez/writings/</link>
+	<description>Recent content in Writings on Hezekiah&#39;s Web Site</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<copyright>&amp;copy; MMXXV-MMXXVI Hezekiah Hunicke</copyright>
+	<lastBuildDate>Wed, 20 Aug 2025 14:47:36 -0700</lastBuildDate>
+    
+        <atom:link href="https://www.hunicke.net/~hez/writings/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Scratch</title>
+		<link>https://www.hunicke.net/~hez/writings/scratch/</link>
+		<pubDate>Tue, 17 Feb 2026 15:01:10 -0800</pubDate>
+		
+		<guid>https://www.hunicke.net/~hez/writings/scratch/</guid>
+		<description>&lt;p&gt;Wow&lt;/p&gt;
+&lt;p&gt;Wow that is so good and good for me too but this one thing I have is an issue that is the only way to make a new page and make a note for each of you in a row of a couple of times a week for a couple weeks&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Uses</title>
+		<link>https://www.hunicke.net/~hez/uses/</link>
+		<pubDate>Tue, 09 Dec 2025 23:27:13 -0800</pubDate>
+		
+		<guid>https://www.hunicke.net/~hez/uses/</guid>
+		<description>&lt;p&gt;Hardware and Software I use.&lt;/p&gt;
+&lt;details class=&#34;toc&#34; open&gt;
+&lt;summary&gt;Table of Contents&lt;/summary&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#computers&#34;&gt;Computers&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#desktop&#34;&gt;Desktop&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#laptop&#34;&gt;Laptop&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#apple-iigs&#34;&gt;Apple IIGS&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#software&#34;&gt;Software&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#for-mac&#34;&gt;For Mac&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#browser-extensions&#34;&gt;Browser Extensions&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#peripherals-and-accessories&#34;&gt;Peripherals and Accessories&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;computers&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#computers&#34;&gt;&amp;#167;&lt;/a&gt;
+  Computers
+
+&lt;/h2&gt;&lt;h3 id=&#34;desktop&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#desktop&#34;&gt;&amp;#167;&lt;/a&gt;
+  Desktop
+
+&lt;/h3&gt;&lt;figure&gt;
+&lt;img src=&#34;https://www.hunicke.net/~hez/images/17.jpeg&#34; alt=&#34;picture of desktop&#34;&gt;
+&lt;figcaption&gt;My desk setup.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;table class=&#34;tfullwidth&#34;&gt;
+ &lt;tr&gt;
+  &lt;th&gt;Model&lt;/th&gt;
+  &lt;th&gt;CPU&lt;/th&gt;
+  &lt;th&gt;Memory&lt;/th&gt;
+  &lt;th&gt;OS&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td&gt;2017 Macbook Pro 15-inch&lt;/td&gt;
+  &lt;td&gt;Intel Core i7-7700HQ (8) @ 2.80 GHz&lt;/td&gt;
+  &lt;td&gt;16 GB&lt;/td&gt;
+  &lt;td&gt;MacOS X Ventura&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;The main computer I use is this Macbook Pro, which I have adapted for exclusive use as a desktop. I used this machine as a laptop for several years, until damage left the screen unusable. I used it with an external monitor for a while, but it was inconvenient having the broken screen still attached, and it would still try to display on the broken screen during boot, among other issues. Eventually, I ended up taking off the screen entirely, which thankfully remedied the issues I was having and made it a lot nicer to use. This type of setup is often refered to as a &amp;ldquo;headless Macbook&amp;rdquo;, though I don&amp;rsquo;t think it meets the formal definition of headless.&lt;/p&gt;
+&lt;h3 id=&#34;laptop&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#laptop&#34;&gt;&amp;#167;&lt;/a&gt;
+  Laptop
+
+&lt;/h3&gt;&lt;figure&gt;
+&lt;img src=&#34;https://www.hunicke.net/~hez/images/19.jpeg&#34; alt=&#34;photograph of laptop&#34;&gt;
+&lt;figcaption&gt;My laptop.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;table class=&#34;tfullwidth&#34;&gt;
+ &lt;tr&gt;
+  &lt;th&gt;Model&lt;/th&gt;
+  &lt;th&gt;CPU&lt;/th&gt;
+  &lt;th&gt;Memory&lt;/th&gt;
+  &lt;th&gt;OS&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td&gt;2019 Macbook Pro 16-inch&lt;/td&gt;
+  &lt;td&gt;Intel Core i9-9880H (16) @ 2.30 GHz&lt;/td&gt;
+  &lt;td&gt;16 GB&lt;/td&gt;
+  &lt;td&gt;MacOS X Sequoia&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;I got this laptop as a replacement for the 2017 Macbook. I use it while traveling as well as for daily use to take to classes, appointments, and such.&lt;/p&gt;
+&lt;h3 id=&#34;apple-iigs&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#apple-iigs&#34;&gt;&amp;#167;&lt;/a&gt;
+  Apple IIGS
+
+&lt;/h3&gt;&lt;figure&gt;
+&lt;img src=&#34;https://www.hunicke.net/~hez/images/GS.jpeg&#34; alt=&#34;picture of Apple IIGS&#34;&gt;
+&lt;figcaption&gt;Apple IIGS.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;table class=&#34;tfullwidth&#34;&gt;
+ &lt;tr&gt;
+  &lt;th&gt;Model&lt;/th&gt;
+  &lt;th&gt;CPU&lt;/th&gt;
+  &lt;th&gt;Memory&lt;/th&gt;
+  &lt;th&gt;OS&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td&gt;1988 Apple IIGS (ROM 01)&lt;/td&gt;
+  &lt;td&gt;WDC 65C816 (1) @ 2.80 MHz (16 bit)&lt;/td&gt;
+  &lt;td&gt;768 KB&lt;/td&gt;
+  &lt;td&gt;ProDOS, GS/OS&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;I am the proud owner of this beautiful Apple IIGS. I got it on Craigslist in 2025 from the original owner, a retrocomputing enthusiast (although when he got started, they weren&amp;rsquo;t retro yet!). Along with the computer itself, I also picked up the original monitor, the keyboard and mouse, 5.25 and 3.5 drives, an ImageWriter II printer, original OS and tutorial disks, all of the original manuals and promotional fliers, a copy of Claris™ AppleWorks®, and all of the original packaging! The Apple IIGS is a lot of fun to work with and it&amp;rsquo;s actually much easier to understand how it works compared to a modern system. Manuals from that era are much more thorough than modern corporate user guides, as they worked off of the assumption that the user may have never used a computer before.&lt;/p&gt;
+&lt;h2 id=&#34;software&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#software&#34;&gt;&amp;#167;&lt;/a&gt;
+  Software
+
+&lt;/h2&gt;&lt;h3 id=&#34;for-mac&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#for-mac&#34;&gt;&amp;#167;&lt;/a&gt;
+  For Mac
+
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://obsproject.com/&#34;&gt;OBS&lt;/a&gt; - Streaming, broadcasting, and recording software.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://inkscape.org/&#34;&gt;Inkscape&lt;/a&gt; - SVG design, line drawing.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://krita.org/&#34;&gt;Krita&lt;/a&gt; - Digital Art software that is usable for general image manipulation as well. I like it more than GIMP.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sdrpp.org/&#34;&gt;SDR++&lt;/a&gt; - Software-defined radio receiver.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://librewolf.net/&#34;&gt;LibreWolf&lt;/a&gt; - Build of Firefox with Mozilla trackers and bloat removed and better default settings.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ungoogled-software.github.io/&#34;&gt;Ungoogled-chromium&lt;/a&gt; - &amp;ldquo;Google Chromium, sans integration with Google&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://karabiner-elements.pqrs.org/&#34;&gt;Karabiner-Elements&lt;/a&gt; - Key remapper for MacOS X.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; - The Static Site Generator I use for this website.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.apple.com/library/mac/samplecode/TextEdit&#34;&gt;TextEdit&lt;/a&gt; - MacOS X text editor.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://brew.sh/&#34;&gt;Homebrew&lt;/a&gt; - Package manager for MacOS X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/fastfetch-cli/fastfetch&#34;&gt;Fastfetch&lt;/a&gt; - Display a description of your system from the command line.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.videolan.org/vlc/&#34;&gt;VLC&lt;/a&gt; - Media player&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zotero.org/&#34;&gt;Zotero&lt;/a&gt; - Reference management software.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yt-dlp/yt-dlp&#34;&gt;YT-DLP&lt;/a&gt; - Video downloader.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://irssi.org/&#34;&gt;Irssi&lt;/a&gt; - IRC client.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lynx.invisible-island.net/&#34;&gt;Lynx&lt;/a&gt; - CLI web bowser.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/layeh/kjv&#34;&gt;Kjv&lt;/a&gt; - CLI Bible.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://adtpro.com/&#34;&gt;ADTPro&lt;/a&gt; - Transfer disk images from modern computers to the Apple II, and vice versa.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Terminal_(macOS)&#34;&gt;OS X Terminal&lt;/a&gt; - MacOS X Terminal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;browser-extensions&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#browser-extensions&#34;&gt;&amp;#167;&lt;/a&gt;
+  Browser Extensions
+
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gorhill/uBlock&#34;&gt;UBlock Origin&lt;/a&gt; - Ad and content blocker for the Web.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sponsor.ajay.app/&#34;&gt;SponsorBlock&lt;/a&gt; - Remove sponsorships from YouTube videos.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://decentraleyes.org/&#34;&gt;Decentraleyes&lt;/a&gt; - Protects against tracking by locally emulating CDNs.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://improvedtube.com/&#34;&gt;ImprovedTube&lt;/a&gt; - Various improvements to the YouTube UI. I use it mainly to speed up videos faster than 2x.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zotero.org/download/connectors&#34;&gt;Zotero Connector&lt;/a&gt; - Zotero companion for saving webpages as references. Automatically recognizes and populates citation data for webpages, scholarly articles, books, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;peripherals-and-accessories&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#peripherals-and-accessories&#34;&gt;&amp;#167;&lt;/a&gt;
+  Peripherals and Accessories
+
+&lt;/h2&gt;&lt;p&gt;This section isn&amp;rsquo;t finished yet!&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Links</title>
+		<link>https://www.hunicke.net/~hez/links/</link>
+		<pubDate>Fri, 22 Aug 2025 09:58:27 -0700</pubDate>
+		
+		<guid>https://www.hunicke.net/~hez/links/</guid>
+		<description>&lt;!-- 3 spaces for S&amp;R purposes --&gt;
+&lt;p&gt;Links to various sites and resources around the internet. All of these pages are things I find intersting and are worth looking at. &lt;!--Inclusion ≠ Ideological Endorsement, obviously.--&gt;&lt;/p&gt;
+&lt;!-- ## Buttons
+![](/buttons/anybrowser3.gif) ![](/buttons/javascript.gif) ![](/buttons/nocookie.gif) [![](/buttons/basedcooking.gif)](https://based.cooking) [![](/buttons/not_related.gif)](https://notrelated.xyz) [![](/buttons/lindypress.webp)](https://lindypress.net) [![](/buttons/landchad.gif)](https://landchad.net) [![](/buttons/wiby.org.gif)](https://wiby.org) [![](/buttons/LibreWolf.png)](https://librewolf.net) [![](/buttons/hugo.gif)](https://gohugo.io) --&gt;
+&lt;h2 id=&#34;personal-websites--blogs&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#personal-websites--blogs&#34;&gt;&amp;#167;&lt;/a&gt;
+  Personal Websites &amp;amp; Blogs
+
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lukesmith.xyz&#34;&gt;lukesmith.xyz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://xn--gckvb8fzb.com/&#34;&gt;マリウス (Marius)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.devever.net/~hl/&#34;&gt;Hugo Landau&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meyerweb.com/&#34;&gt;meyerweb&lt;/a&gt;    Website and blog of Web legend Eric Meyer.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://koshka.love/&#34;&gt;Koshka&amp;rsquo;s Kingdom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ribo.zone/&#34;&gt;ribo.zone&lt;/a&gt;    A very cool piece of web design.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eldritchdata.neocities.org/&#34;&gt;ELDRITCHDATA&lt;/a&gt;    Linux and privacy site best known for blocking browsers that have javascript enabled.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://btxx.org/&#34;&gt;Bradley Taunt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;youtube&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#youtube&#34;&gt;&amp;#167;&lt;/a&gt;
+  YouTube
+
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@lukesmithxyz&#34;&gt;Luke Smith&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@sylvanfranklin&#34;&gt;Sylvan Franklin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@BreadOnPenguins&#34;&gt;Bread on Penguins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@MentalOutlaw&#34;&gt;Mental Outlaw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#publications&#34;&gt;&amp;#167;&lt;/a&gt;
+  Publications
+
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://lowtechmagazine.com/&#34;&gt;Low←Tech Magazine&lt;/a&gt;    Solar-powered website that questions the modern world&amp;rsquo;s obsession with technological progress. Looks for low-tech solutions to high-tech problems. Project of Kris de Decker.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#software&#34;&gt;&amp;#167;&lt;/a&gt;
+  Software
+
+&lt;/h2&gt;&lt;p&gt;See &lt;a href=&#34;https://www.hunicke.net/~hez/uses/#software&#34;&gt;uses § software&lt;/a&gt;&lt;/p&gt;
+&lt;!--
+- [LibreWolf](https://librewolf.net/)    Build of Firefox with Mozilla trackers and bloat removed and better default settings.
+- [Hugo](https://gohugo.io/)    The Static Site Generator I use for this website.
+- [ungoogled-chromium](https://ungoogled-software.github.io/)    Build of Chromium with Google services and trackers removed.
+- [SDR++](https://sdrpp.org/)    SDR++ is a cross-platform and open source SDR (Software Defined Radio) software with the aim of being bloat free and simple to use.
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org/)    Powerful key remapper for MacOS X. Public Domain software. --&gt;
+&lt;h2 id=&#34;webrings--clubs&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#webrings--clubs&#34;&gt;&amp;#167;&lt;/a&gt;
+  Webrings &amp;amp; Clubs
+
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://heaventree.xyz/&#34;&gt;The Guild of Heaven Tree&lt;/a&gt;    Luke Smith-coded Christian webring.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://1mb.club/&#34;&gt;1MB Club&lt;/a&gt;    A selection of webpages under 1 MB.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://512kb.club/&#34;&gt;512KB Club&lt;/a&gt;    A selection of webpages under 512 KB.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://250kb.club/&#34;&gt;250KB Club&lt;/a&gt;    A selection of webpages under 256 KB.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://no-js.club/&#34;&gt;No-JS Club&lt;/a&gt;    A selection of webpages that do not use javascript.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nocss.club/&#34;&gt;No CSS Club&lt;/a&gt;    A selection of webpages that do not use CSS.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://no-html.club/&#34;&gt;No HTML Club&lt;/a&gt;    A selection of webpages that do not use HTML (yes, really).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;fun&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#fun&#34;&gt;&amp;#167;&lt;/a&gt;
+  Fun
+
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://hmpg.net/&#34;&gt;The last page of the internet&lt;/a&gt;    For when you just want to skip to the ending.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://meyerweb.com/feeds/excuse/&#34;&gt;Excuse of the Day&lt;/a&gt;    Injecting daily palliations directly into your veins since the &amp;rsquo;90s.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;unsorted&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#unsorted&#34;&gt;&amp;#167;&lt;/a&gt;
+  Unsorted
+
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://marginalia-search.com/&#34;&gt;Marginalia Search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wiby.me/&#34;&gt;Wiby Search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://koshka.love/mwwwga.html&#34;&gt;Make the Web Great Again&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://landchad.net/&#34;&gt;LandChad.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lindypress.net/&#34;&gt;LindyPress.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notrelated.xyz/&#34;&gt;Not Related!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Contact Me</title>
+		<link>https://www.hunicke.net/~hez/contact/</link>
+		<pubDate>Thu, 21 Aug 2025 09:50:25 -0700</pubDate>
+		
+		<guid>https://www.hunicke.net/~hez/contact/</guid>
+		<description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt; my first name &amp;gt; [at] hunicke.com
+&lt;/code&gt;&lt;/pre&gt;</description>
+	</item>
+	
+	<item>
+		<title>The Declaration of Independence of The United States of America</title>
+		<link>https://www.hunicke.net/~hez/writings/doi/</link>
+		<pubDate>Thu, 04 Jul 1776 01:42:29 -0700</pubDate>
+		
+		<guid>https://www.hunicke.net/~hez/writings/doi/</guid>
+		<description>&lt;p&gt;When in the Course of human events, it becomes necessary for one people
+to dissolve the political bands which have connected them with another,
+and to assume, among the Powers of the earth, the separate and equal
+station to which the Laws of Nature and of Nature&amp;rsquo;s God entitle them, a
+decent respect to the opinions of mankind requires that they should
+declare the causes which impel them to the separation.&lt;/p&gt;
+&lt;p&gt;We hold these truths to be self-evident, that all men are created
+equal, that they are endowed by their Creator with certain unalienable
+Rights, that among these are Life, Liberty, and the pursuit of
+Happiness. That to secure these rights, Governments are instituted
+among Men, deriving their just powers from the consent of the governed,
+That whenever any Form of Government becomes destructive of these ends,
+it is the Right of the People to alter or to abolish it, and to
+institute new Government, laying its foundation on such principles and
+organizing its powers in such form, as to them shall seem most likely
+to effect their Safety and Happiness.  Prudence, indeed, will dictate
+that Governments long established should not be changed for light and
+transient causes; and accordingly all experience hath shown, that
+mankind are more disposed to suffer, while evils are sufferable, than
+to right themselves by abolishing the forms to which they are
+accustomed.  But when a long train of abuses and usurpations, pursuing
+invariably the same Object evinces a design to reduce them under
+absolute Despotism, it is their right, it is their duty, to throw off
+such Government, and to provide new Guards for their future security.
+&amp;ndash;Such has been the patient sufferance of these Colonies; and such is
+now the necessity which constrains them to alter their former Systems
+of Government. The history of the present King of Great Britain is a
+history of repeated injuries and usurpations, all having in direct
+object the establishment of an absolute Tyranny over these States.  To
+prove this, let Facts be submitted to a candid world.&lt;/p&gt;
+&lt;p&gt;He has refused his Assent to Laws, the most wholesome and necessary for
+the public good.&lt;/p&gt;
+&lt;p&gt;He has forbidden his Governors to pass Laws of immediate and pressing
+importance, unless suspended in their operation till his Assent should
+be obtained; and when so suspended, he has utterly neglected to attend
+to them.&lt;/p&gt;
+&lt;p&gt;He has refused to pass other Laws for the accommodation of large
+districts of people, unless those people would relinquish the right of
+Representation in the Legislature, a right inestimable to them and
+formidable to tyrants only.&lt;/p&gt;
+&lt;p&gt;He has called together legislative bodies at places unusual,
+uncomfortable, and distant from the depository of their Public Records,
+for the sole purpose of fatiguing them into compliance with his
+measures.&lt;/p&gt;
+&lt;p&gt;He has dissolved Representative Houses repeatedly, for opposing with
+manly firmness his invasions on the rights of the people.&lt;/p&gt;
+&lt;p&gt;He has refused for a long time, after such dissolutions, to cause
+others to be elected; whereby the Legislative Powers, incapable of
+Annihilation, have returned to the People at large for their exercise;
+the State remaining in the mean time exposed to all the dangers of
+invasion from without, and convulsions within.&lt;/p&gt;
+&lt;p&gt;He has endeavoured to prevent the population of these States; for that
+purpose obstructing the Laws of Naturalization of Foreigners; refusing
+to pass others to encourage their migration hither, and raising the
+conditions of new Appropriations of Lands.&lt;/p&gt;
+&lt;p&gt;He has obstructed the Administration of Justice, by refusing his Assent
+to Laws for establishing Judiciary Powers.&lt;/p&gt;
+&lt;p&gt;He has made judges dependent on his Will alone, for the tenure of their
+offices, and the amount and payment of their salaries.&lt;/p&gt;
+&lt;p&gt;He has erected a multitude of New Offices, and sent hither swarms of
+Officers to harass our People, and eat out their substance.&lt;/p&gt;
+&lt;p&gt;He has kept among us, in times of peace, Standing Armies without the
+Consent of our legislatures.&lt;/p&gt;
+&lt;p&gt;He has affected to render the Military independent of and superior to
+the Civil Power.&lt;/p&gt;
+&lt;p&gt;He has combined with others to subject us to a jurisdiction foreign to
+our constitution, and unacknowledged by our laws; giving his Assent to
+their Acts of pretended legislation:&lt;/p&gt;
+&lt;p&gt;For quartering large bodies of armed troops among us:&lt;/p&gt;
+&lt;p&gt;For protecting them, by a mock Trial, from Punishment for any Murders
+which they should commit on the Inhabitants of these States:&lt;/p&gt;
+&lt;p&gt;For cutting off our Trade with all parts of the world:&lt;/p&gt;
+&lt;p&gt;For imposing taxes on us without our Consent:&lt;/p&gt;
+&lt;p&gt;For depriving us, in many cases, of the benefits of Trial by Jury:&lt;/p&gt;
+&lt;p&gt;For transporting us beyond Seas to be tried for pretended offences:&lt;/p&gt;
+&lt;p&gt;For abolishing the free System of English Laws in a neighbouring
+Province, establishing therein an Arbitrary government, and enlarging
+its Boundaries so as to render it at once an example and fit instrument
+for introducing the same absolute rule into these Colonies:&lt;/p&gt;
+&lt;p&gt;For taking away our Charters, abolishing our most valuable Laws, and
+altering fundamentally the Forms of our Governments:&lt;/p&gt;
+&lt;p&gt;For suspending our own Legislatures, and declaring themselves invested
+with Power to legislate for us in all cases whatsoever.&lt;/p&gt;
+&lt;p&gt;He has abdicated Government here, by declaring us out of his Protection
+and waging War against us.&lt;/p&gt;
+&lt;p&gt;He has plundered our seas, ravaged our Coasts, burnt our towns, and
+destroyed the lives of our people.&lt;/p&gt;
+&lt;p&gt;He is at this time transporting large armies of foreign mercenaries to
+compleat the works of death, desolation and tyranny, already begun with
+circumstances of Cruelty &amp;amp; perfidy scarcely paralleled in the most
+barbarous ages, and totally unworthy of the Head of a civilized nation.&lt;/p&gt;
+&lt;p&gt;He has constrained our fellow Citizens taken Captive on the high Seas
+to bear Arms against their Country, to become the executioners of their
+friends and Brethren, or to fall themselves by their Hands.&lt;/p&gt;
+&lt;p&gt;He has excited domestic insurrections amongst us, and has endeavoured
+to bring on the inhabitants of our frontiers, the merciless Indian
+Savages, whose known rule of warfare, is an undistinguished destruction
+of all ages, sexes and conditions.&lt;/p&gt;
+&lt;p&gt;In every stage of these Oppressions We have Petitioned for Redress in
+the most humble terms:  Our repeated Petitions have been answered only
+by repeated injury.  A Prince, whose character is thus marked by every
+act which may define a Tyrant, is unfit to be the ruler of a free
+People.&lt;/p&gt;
+&lt;p&gt;Nor have We been wanting in attention to our British brethren. We have
+warned them from time to time of attempts by their legislature to
+extend an unwarrantable jurisdiction over us. We have reminded them of
+the circumstances of our emigration and settlement here.  We have
+appealed to their native justice and magnanimity, and we have conjured
+them by the ties of our common kindred to disavow these usurpations,
+which would inevitably interrupt our connections and correspondence.
+They too have been deaf to the voice of justice and of consanguinity.
+We must, therefore, acquiesce in the necessity, which denounces our
+Separation, and hold them, as we hold the rest of mankind, Enemies in
+War, in Peace Friends.&lt;/p&gt;
+&lt;p&gt;We, therefore, the Representatives of the United States of America, in
+General Congress, Assembled, appealing to the Supreme Judge of the
+world for the rectitude of our intentions, do, in the Name, and by the
+Authority of the good People of these Colonies, solemnly publish and
+declare, That these United Colonies are, and of Right ought to be Free
+and Independent States; that they are Absolved from all Allegiance to
+the British Crown, and that all political connection between them and
+the State of Great Britain, is and ought to be totally dissolved; and
+that as Free and Independent States, they have full Power to levy War,
+conclude Peace, contract Alliances, establish Commerce, and to do all
+other Acts and Things which Independent States may of right do.  And
+for the support of this Declaration, with a firm reliance on the
+Protection of Divine Providence, we mutually pledge to each other our
+Lives, our Fortunes and our sacred Honor.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Colophon</title>
+		<link>https://www.hunicke.net/~hez/colophon/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://www.hunicke.net/~hez/colophon/</guid>
+		<description>
+
+&lt;table&gt;
+
+&lt;tr&gt;
+&lt;th colspan=&#34;2&#34;&gt;Site&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;URL:&lt;/td&gt;
+&lt;td class=&#34;monotable&#34;&gt;&lt;a href=&#34;https://www.hunicke.net/~hez/&#34;&gt;https://www.hunicke.net/~hez/&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Site build date:&lt;/td&gt;
+&lt;td class=&#34;monotable&#34;&gt;2026-03-11 19:12:43.728651 -0700 PDT&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Hosting:&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/scfried/soft-type-jacquard&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th colspan=&#34;2&#34;&gt;Development&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Dev OS:&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/MacOS_Ventura&#34;&gt;MacOS X &lt;i&gt;Ventura&lt;/i&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Generator:&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; &lt;code&gt;0.157.0&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Text Editor:&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TextEdit&#34;&gt;TextEdit&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Web Browser:&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://librewolf.net/&#34;&gt;Librewolf&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;SVG Management:&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://inkscape.org/&#34;&gt;Inkscape&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Image Management:&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Preview_(Apple)&#34;&gt;Preview&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;th colspan=&#34;3&#34;&gt;Resources Used&lt;/th&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+&lt;td&gt;Hugo Layout:&lt;/td&gt;
+&lt;td&gt;Adapted from &lt;a href=&#34;https://github.com/lukesmithxyz/lugo&#34;&gt;Lugo&lt;/a&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+
+
+
+&lt;tr&gt;
+&lt;th colspan=&#34;100&#34;&gt;Authors&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Name:&lt;/td&gt;
+&lt;td&gt;Hezekiah Hunicke&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Title:&lt;/td&gt;
+&lt;td&gt;Webmaster, Content Writer&lt;/td&gt;
+	
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Contact:&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.hunicke.net/~hez/contact&#34;&gt;www.hunicke.net/~hez/contact&lt;/a&gt;&lt;/td&gt;
+	
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;From:&lt;/td&gt;
+&lt;td&gt;Oregon, USA&lt;/td&gt;
+	
+&lt;/tr&gt;
+
+
+
+
+
+&lt;/table&gt;
+
+
+
+</description>
+	</item>
+	
+	</channel>
+</rss>

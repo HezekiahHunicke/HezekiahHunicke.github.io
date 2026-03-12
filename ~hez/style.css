@@ -1,0 +1,273 @@
+:root {
+	--fg: black;
+	--bg: #dfdfd0;
+	--bg1: #cfcfc0;
+	--link: #044;
+	--vlink: #204;
+}
+
+
+/*
+@media (prefers-color-scheme: dark) {
+
+	:root {
+		--fg: #dfdfd0;
+		--bg: #181818;
+		--bg1: #282828;
+		--link: #ced;
+		--vlink: #ecd;
+	}
+}
+*/
+
+
+
+
+
+@media screen {
+
+
+
+
+
+
+#bar { display: none; }
+
+
+#side{
+	position: absolute;
+	line-height: 1.5;
+}
+
+#side > a::before {
+	content:"❧ ";
+}
+
+#sitename {
+	font-size: x-large;
+	color: var(--fg);
+	text-decoration: none;	
+	font-style: italic;
+}
+
+
+#side > a {
+	display: block;
+	font-size: x-large;
+	color: var(--fg);
+	text-decoration: none;
+	margin-left: 10px;
+}
+
+.nocss {
+	display: none;
+}
+
+html {
+	font-family: georgia, gelasio, serif;
+	background-color: var(--bg);
+	color: var(--fg);
+
+	height: 100%;
+}
+
+p {
+		line-height: 1.7;
+}
+
+#box {
+	max-width:500px;
+	margin:auto;
+}
+
+a {
+	color: var(--link);
+}
+
+a:visited {
+	color: var(--vlink);
+}
+
+hr {
+	border: none;
+	color: var(--fg);
+	text-align: center;
+	white-space: pre;
+	font-size: smaller;
+	margin-top: 20px;
+	margin-bottom: -3px;
+}
+
+hr::before {
+	content:"✽                   ✽                   ✽";
+}
+	
+
+.footnotes hr {
+	border: none;
+	border-top: solid var(--fg) 1px;
+	margin: initial;
+}
+
+.footnotes hr::before {
+	content: none;
+}
+
+
+
+h1 {
+	text-align: center;
+}
+
+.anchor {
+	text-decoration: none;
+	font-size: large;
+	color: var(--link);
+}
+
+.toc {
+	background-color: var(--bg1);
+	margin: -5px;
+	padding: 5px;
+	border-radius: 0px;
+}
+
+figure {
+	background-color: var(--bg1);
+	margin: 10px 0px;
+	padding: 10px;
+	border-radius: 0px;
+}
+
+figcaption {
+	margin-left: 50px;
+}
+
+.toc > summary {
+	font-size: x-large;
+	font-weight: bold;
+}
+	
+footer {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-size: smaller;
+}
+
+img { 
+	width: 100%;
+}
+
+.nocss {
+	display: none;
+}
+
+#backtotop {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	font-size: xx-large;
+}
+
+#backtotop > a {
+	text-decoration: none;
+	color: var(--fg);
+}
+
+
+
+#menu-label { display: none; }
+
+#menu-toggle[type="checkbox"] {
+    left: -9999px;
+    opacity: 0;
+    position: absolute;
+}
+
+
+
+
+@media screen and (max-width: 849px) {
+
+#bar {
+	display: block;
+	position: fixed;
+	background-color: var(--bg1);
+	height: 70px;
+	width: 1000vw;
+	top: 0;
+	margin-left: -10px;
+	margin-right: -40px;
+	padding: 0;
+}
+
+#box { padding-top: 70px; }
+
+.hidemobile { display: none; }
+
+#sitename {
+	float: right;
+	position: fixed;
+	left: 20px;
+	top: 20px;
+}
+
+
+
+#side{
+	
+}
+
+#backtotop {
+	display: none;
+	background-color: var(--bg1);
+	border-radius: 10px;
+}
+
+
+/* Main default styling */
+
+
+#menu-label {
+ 
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 10px;
+	background-color: var(--bg);
+	position: fixed;
+	right: 20px;
+	top: 15px;
+}
+
+#side {
+    opacity: 0;
+    position: fixed;
+    z-index: -2;
+	right: 20px;
+	top: 70px;
+}
+
+/* Show nav element when checkbox active */
+#menu-toggle[type="checkbox"]:checked ~ #side {
+    opacity: 1;
+    z-index: 1;
+	background-color: var(--bg1);
+	padding-right: 8px;
+	border-radius: 10px;
+	position: fixed;
+}
+
+#menu-label { display: inline; }
+
+#side{
+	position: fixed;
+}
+
+
+	}
+}
+
+
+
+

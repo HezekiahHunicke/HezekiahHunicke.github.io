@@ -1,0 +1,22 @@
+article {
+	columns: 2;
+}
+
+#bar, #sitename, #menu-toggle, #menu-label, #side, #backtotop {
+	display: none;
+}
+
+footer {
+	text-align: center;
+}
+
+img {
+	width: 100%;
+}
+
+figure {
+	margin: 0px;
+	margin-bottom: 5px;
+	padding: 5px;
+	border: solid 2px;
+}
