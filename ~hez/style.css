@@ -2,6 +2,7 @@
 	--fg: black;
 	--bg: #dfdfd0;
 	--bg1: #cfcfc0;
+	--bg1off: #ccccbc;
 	--link: #044;
 	--vlink: #204;
 }
@@ -125,12 +126,6 @@ h1 {
 	color: var(--link);
 }
 
-.toc {
-	background-color: var(--bg1);
-	margin: -5px;
-	padding: 5px;
-	border-radius: 0px;
-}
 
 figure {
 	background-color: var(--bg1);
@@ -143,10 +138,25 @@ figcaption {
 	margin-left: 50px;
 }
 
-.toc > summary {
-	font-size: x-large;
-	font-weight: bold;
+
+
+
+
+
+.toc {
+	background-color: var(--bg1);
+	margin: -5px;
+	padding: 5px;
+	border-radius: 0px;
 }
+
+.toc > summary {
+	font-weight: bold;
+	background-color: var(--bg1off);
+	
+}
+
+	
 	
 footer {
 	text-align: center;

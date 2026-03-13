@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.hunicke.net/~hez/writings/scratch/</loc>
-    <lastmod>2026-02-17T15:01:10-08:00</lastmod>
-  </url><url>
     <loc>https://www.hunicke.net/~hez/uses/</loc>
     <lastmod>2025-12-09T23:27:13-08:00</lastmod>
   </url><url>
@@ -26,7 +23,7 @@
     <loc>https://www.hunicke.net/~hez/</loc>
     <lastmod>2025-08-20T13:47:13-07:00</lastmod>
   </url><url>
-    <loc>https://www.hunicke.net/~hez/writings/doi/</loc>
+    <loc>https://www.hunicke.net/~hez/writings/dec-ind/</loc>
     <lastmod>1776-07-04T01:42:29-07:00</lastmod>
   </url><url>
     <loc>https://www.hunicke.net/~hez/categories/</loc>
