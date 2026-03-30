@@ -21,19 +21,13 @@
 &lt;summary&gt;Table of Contents&lt;/summary&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#computers&#34;&gt;Computers&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#desktop&#34;&gt;Desktop&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#laptop&#34;&gt;Laptop&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#apple-iigs&#34;&gt;Apple IIGS&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#computers&#34;&gt;Computers&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#software&#34;&gt;Software&lt;/a&gt;
       &lt;ul&gt;
         &lt;li&gt;&lt;a href=&#34;#gui&#34;&gt;GUI&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#cli&#34;&gt;CLI&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#browser-extensions&#34;&gt;Browser Extensions&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#apple-iigs-1&#34;&gt;Apple IIGS&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#apple-iigs&#34;&gt;Apple IIGS&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
@@ -42,13 +36,47 @@
 &lt;h2 id=&#34;computers&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#computers&#34;&gt;&amp;#167;&lt;/a&gt;
   Computers
 
-&lt;/h2&gt;&lt;h3 id=&#34;desktop&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#desktop&#34;&gt;&amp;#167;&lt;/a&gt;
-  Desktop
+&lt;/h2&gt;&lt;table class=&#34;tfullwidth&#34;&gt;
+ &lt;tr&gt;
+  &lt;th&gt;Model&lt;/th&gt;
+  &lt;th&gt;CPU&lt;/th&gt;
+  &lt;th&gt;Memory&lt;/th&gt;
+  &lt;th&gt;OS&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td&gt;2017 Macbook Pro 15-inch&lt;/td&gt;
+  &lt;td&gt;Intel Core i7-7700HQ (8) @ 2.80 GHz&lt;/td&gt;
+  &lt;td&gt;16 GB&lt;/td&gt;
+  &lt;td&gt;MacOS X Ventura&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td&gt;2019 Macbook Pro 16-inch&lt;/td&gt;
+  &lt;td&gt;Intel Core i9-9880H (16) @ 2.30 GHz&lt;/td&gt;
+  &lt;td&gt;16 GB&lt;/td&gt;
+  &lt;td&gt;MacOS X Sequoia&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+  &lt;td&gt;1988 Apple IIGS (ROM 01)&lt;/td&gt;
+  &lt;td&gt;WDC 65C816 (1) @ 2.80 MHz (16 bit)&lt;/td&gt;
+  &lt;td&gt;768 KB&lt;/td&gt;
+  &lt;td&gt;ProDOS, GS/OS&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+&lt;!--
 
-&lt;/h3&gt;&lt;figure&gt;
-&lt;img src=&#34;https://www.hunicke.net/~hez/images/17.jpeg&#34; alt=&#34;picture of desktop&#34;&gt;
+### Desktop
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://www.hunicke.net/~hez/images/17d.png&#34; alt=&#34;picture of desktop&#34;&gt;
+
 &lt;figcaption&gt;My desk setup.&lt;/figcaption&gt;
+
 &lt;/figure&gt;
+
+
 &lt;table class=&#34;tfullwidth&#34;&gt;
  &lt;tr&gt;
   &lt;th&gt;Model&lt;/th&gt;
@@ -63,14 +91,27 @@
   &lt;td&gt;MacOS X Ventura&lt;/td&gt;
  &lt;/tr&gt;
 &lt;/table&gt;
-&lt;p&gt;The main computer I use is this Macbook Pro, which I have adapted for exclusive use as a desktop. I used this machine as a laptop for several years, until damage left the screen unusable. I used it with an external monitor for a while, but it was inconvenient having the broken screen still attached, and it would still try to display on the broken screen during boot, among other issues. Eventually, I ended up taking off the screen entirely, which thankfully remedied the issues I was having and made it a lot nicer to use. This type of setup is often refered to as a &amp;ldquo;headless Macbook&amp;rdquo;, though I don&amp;rsquo;t think it meets the formal definition of headless.&lt;/p&gt;
-&lt;h3 id=&#34;laptop&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#laptop&#34;&gt;&amp;#167;&lt;/a&gt;
-  Laptop
 
-&lt;/h3&gt;&lt;figure&gt;
-&lt;img src=&#34;https://www.hunicke.net/~hez/images/19.jpeg&#34; alt=&#34;photograph of laptop&#34;&gt;
+
+
+
+The main computer I use is this Macbook Pro, which I have adapted for exclusive use as a desktop. I used this machine as a laptop for several years, until damage left the screen unusable. I used it with an external monitor for a while, but it was inconvenient having the broken screen still attached, and it would still try to display on the broken screen during boot, among other issues. Eventually, I ended up taking off the screen entirely, which thankfully remedied the issues I was having and made it a lot nicer to use. This type of setup is often refered to as a &#34;headless Macbook&#34;, though I don&#39;t think it meets the formal definition of headless.
+
+
+
+
+
+
+### Laptop
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://www.hunicke.net/~hez/images/19d.png&#34; alt=&#34;photograph of laptop&#34;&gt;
+
 &lt;figcaption&gt;My laptop.&lt;/figcaption&gt;
+
 &lt;/figure&gt;
+
 &lt;table class=&#34;tfullwidth&#34;&gt;
  &lt;tr&gt;
   &lt;th&gt;Model&lt;/th&gt;
@@ -85,14 +126,21 @@
   &lt;td&gt;MacOS X Sequoia&lt;/td&gt;
  &lt;/tr&gt;
 &lt;/table&gt;
-&lt;p&gt;I got this laptop as a replacement for the 2017 Macbook. I use it while traveling as well as for daily use to take to classes, appointments, and such.&lt;/p&gt;
-&lt;h3 id=&#34;apple-iigs&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#apple-iigs&#34;&gt;&amp;#167;&lt;/a&gt;
-  Apple IIGS
 
-&lt;/h3&gt;&lt;figure&gt;
+I got this laptop as a replacement for the 2017 Macbook. I use it while traveling as well as for daily use to take to classes, appointments, and such.
+
+
+
+### Apple IIGS
+
+&lt;figure&gt;
+
 &lt;img src=&#34;https://www.hunicke.net/~hez/images/GS.jpeg&#34; alt=&#34;picture of Apple IIGS&#34;&gt;
+
 &lt;figcaption&gt;Apple IIGS.&lt;/figcaption&gt;
+
 &lt;/figure&gt;
+
 &lt;table class=&#34;tfullwidth&#34;&gt;
  &lt;tr&gt;
   &lt;th&gt;Model&lt;/th&gt;
@@ -107,7 +155,10 @@
   &lt;td&gt;ProDOS, GS/OS&lt;/td&gt;
  &lt;/tr&gt;
 &lt;/table&gt;
-&lt;p&gt;I am the proud owner of this beautiful Apple IIGS. I got it on Craigslist in 2025 from the original owner, a retrocomputing enthusiast (although when he got started, they weren&amp;rsquo;t retro yet!). Along with the computer itself, I also picked up the original monitor, the keyboard and mouse, 5.25 and 3.5 drives, an ImageWriter II printer, original OS and tutorial disks, all of the original manuals and promotional fliers, a copy of Claris™ AppleWorks®, and all of the original packaging! The Apple IIGS is a lot of fun to work with and it&amp;rsquo;s actually much easier to understand how it works compared to a modern system. Manuals from that era are much more thorough than modern corporate user guides, as they worked off of the assumption that the user may have never used a computer before.&lt;/p&gt;
+
+I am the proud owner of this beautiful Apple IIGS. I got it on Craigslist in 2025 from the original owner, a retrocomputing enthusiast (although when he got started, they weren&#39;t retro yet!). Along with the computer itself, I also picked up the original monitor, the keyboard and mouse, 5.25 and 3.5 drives, an ImageWriter II printer, original OS and tutorial disks, all of the original manuals and promotional fliers, a copy of Claris&amp;trade; AppleWorks&amp;reg;, and all of the original packaging! The Apple IIGS is a lot of fun to work with and it&#39;s actually much easier to understand how it works compared to a modern system. Manuals from that era are much more thorough than modern corporate user guides, as they worked off of the assumption that the user may have never used a computer before.
+
+--&gt;
 &lt;h2 id=&#34;software&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#software&#34;&gt;&amp;#167;&lt;/a&gt;
   Software
 
@@ -153,7 +204,7 @@
 &lt;li&gt;&lt;a href=&#34;https://www.zotero.org/download/connectors&#34;&gt;Zotero Connector&lt;/a&gt; - Zotero companion for saving webpages as references. Automatically recognizes and populates citation data for webpages, scholarly articles, books, etc.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/openstyles/stylus&#34;&gt;Stylus&lt;/a&gt; - Restyle websites with custom CSS.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;apple-iigs-1&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#apple-iigs-1&#34;&gt;&amp;#167;&lt;/a&gt;
+&lt;h3 id=&#34;apple-iigs&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#apple-iigs&#34;&gt;&amp;#167;&lt;/a&gt;
   Apple IIGS
 
 &lt;/h3&gt;&lt;ul&gt;
@@ -173,8 +224,20 @@
 		<pubDate>Fri, 22 Aug 2025 09:58:27 -0700</pubDate>
 		
 		<guid>https://www.hunicke.net/~hez/links/</guid>
-		<description>&lt;!-- 3 spaces for S&amp;R purposes --&gt;
-&lt;p&gt;Links to various sites and resources I find interesting.&lt;/p&gt;
+		<description>&lt;p&gt;Links to various sites and resources I find interesting.&lt;/p&gt;
+&lt;details class=&#34;toc&#34; open&gt;
+&lt;summary&gt;Table of Contents&lt;/summary&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#personal-websites--blogs&#34;&gt;Personal Websites &amp;amp; Blogs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#youtube&#34;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#publications&#34;&gt;Publications&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#software&#34;&gt;Software&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#webrings--clubs&#34;&gt;Webrings &amp;amp; Clubs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#fun&#34;&gt;Fun&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
 &lt;!-- ## Buttons
 ![](/buttons/anybrowser3.gif) ![](/buttons/javascript.gif) ![](/buttons/nocookie.gif) [![](/buttons/basedcooking.gif)](https://based.cooking) [![](/buttons/not_related.gif)](https://notrelated.xyz) [![](/buttons/lindypress.webp)](https://lindypress.net) [![](/buttons/landchad.gif)](https://landchad.net) [![](/buttons/wiby.org.gif)](https://wiby.org) [![](/buttons/LibreWolf.png)](https://librewolf.net) [![](/buttons/hugo.gif)](https://gohugo.io) --&gt;
 &lt;h2 id=&#34;personal-websites--blogs&#34;&gt;  &lt;a class=&#34;anchor&#34; href=&#34;#personal-websites--blogs&#34;&gt;&amp;#167;&lt;/a&gt;
@@ -243,8 +306,10 @@
 		<pubDate>Thu, 21 Aug 2025 09:50:25 -0700</pubDate>
 		
 		<guid>https://www.hunicke.net/~hez/contact/</guid>
-		<description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt; my first name &amp;gt; [at] hunicke.com
-&lt;/code&gt;&lt;/pre&gt;</description>
+		<description>&lt;pre style=&#34;text-align: center;&#34;&gt;
+&amp;lt; my first name &amp;gt; [at] hunicke.com
+&lt;/pre&gt;
+</description>
 	</item>
 	
 	<item>
@@ -404,8 +469,8 @@ Lives, our Fortunes and our sacred Honor.&lt;/p&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Site build date:&lt;/td&gt;
-&lt;td class=&#34;monotable&#34;&gt;2026-03-13 14:46:34.755044 -0700 PDT&lt;/td&gt;
+&lt;td&gt;Build date:&lt;/td&gt;
+&lt;td class=&#34;monotable&#34;&gt;2026-03-29 19:38:47.787312 -0700 PDT&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
